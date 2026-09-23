@@ -79,6 +79,8 @@
   .nav{display:none}
   .nav a{text-decoration:none; font-size:14.5px; font-weight:400; color:var(--ink); white-space:nowrap}
   .nav a:hover{color:var(--gold)}
+  .nav a.is-current{color:var(--gold); border-bottom:1px solid var(--gold-solid); padding-bottom:3px}
+  .navpanel a.is-current{color:var(--gold)}
   .burger{
     display:inline-flex; align-items:center; justify-content:center; width:42px; height:42px;
     background:none; border:1px solid var(--line); border-radius:2px; color:var(--ink); cursor:pointer;
@@ -433,7 +435,7 @@
         <span class="mark__sub">Gent · 24/7</span>
       </span>
     </a>
-    <nav class="nav"><a href="#boeken">Ritprijs berekenen</a><a href="#vip">VIP-transfer</a><a href="zakelijk.html">Voor bedrijven</a><a href="#prijzen">Vaste prijzen</a><a href="#contact">Contact</a></nav>
+    <nav class="nav"><a href="#boeken">Ritprijs berekenen</a><a href="#vip">VIP-transfer</a><a href="#prijzen">Vaste prijzen</a><a href="zakelijk.html">Voor bedrijven</a><a href="#contact">Contact</a></nav>
     <button type="button" class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="navpanel">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3.5 7h17M3.5 12h17M3.5 17h17"/></svg>
     </button>
@@ -450,9 +452,9 @@
     <div class="wrap">
       <a href="#boeken">Ritprijs berekenen<span>adres tot adres</span></a>
       <a href="#vip">VIP-transfer<span>luchthaven</span></a>
-      <a href="zakelijk.html">Voor bedrijven<span>offerte</span></a>
       <a href="#prijzen">Vaste ritprijzen<span>Zaventem, Charleroi…</span></a>
       <a href="#diensten">Onze diensten</a>
+      <a href="zakelijk.html">Voor bedrijven<span>offerte en factuur</span></a>
       <a href="#contact">Contact</a>
       <a href="tel:+32470534124">Bel 0470 53 41 24<span>24/7</span></a>
     </div>
