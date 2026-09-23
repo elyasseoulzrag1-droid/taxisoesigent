@@ -24,7 +24,7 @@ Bovenaan het `<script>`-blok van `index.html`:
 | `PER_KM` | € 2,60 per bijkomende kilometer |
 | `FIXED` | de vaste prijzen per bestemming |
 
-In `zakelijk.html` staat bovenaan `MAIL`, het adres waar het offerteformulier naartoe gaat.
+In `zakelijk.html` staat bovenaan `MAIL`, vandaag Novaracommv@gmail.com, het adres waar het offerteformulier naartoe gaat.
 
 ## Online zetten
 
