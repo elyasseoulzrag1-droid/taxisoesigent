@@ -7,7 +7,6 @@
 <meta property="og:title" content="Taxi Soesi Gent">
 <meta property="og:description" content="Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp.">
 <meta property="og:type" content="website">
-
 </head>
 <body>
 <title>Taxi Soesi Gent</title>
@@ -71,9 +70,36 @@
     letter-spacing:.05em; line-height:1.1; display:block;
   }
   .mark__sub{font-size:10.5px; color:var(--muted); letter-spacing:.22em; text-transform:uppercase}
-  .topbar .btn{padding:10px 16px; font-size:14px}
+  .topbar .btn{padding:10px 16px; font-size:14px; white-space:nowrap}
   .topbar .topbar__tel{display:none}
   @media (min-width:640px){ .topbar .topbar__tel{display:inline-flex} }
+
+
+  /* ---------- menu ---------- */
+  .nav{display:none}
+  .nav a{text-decoration:none; font-size:14.5px; font-weight:400; color:var(--ink); white-space:nowrap}
+  .nav a:hover{color:var(--gold)}
+  .burger{
+    display:inline-flex; align-items:center; justify-content:center; width:42px; height:42px;
+    background:none; border:1px solid var(--line); border-radius:2px; color:var(--ink); cursor:pointer;
+  }
+  .burger:hover{border-color:var(--gold-solid)}
+  .burger svg{width:18px; height:18px}
+  .navpanel{display:none; border-top:1px solid var(--line); background:var(--bg)}
+  .navpanel.is-open{display:block}
+  .navpanel .wrap{padding-block:6px 14px}
+  .navpanel a{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:15px 0; border-bottom:1px solid var(--line);
+    text-decoration:none; font-size:16.5px; color:var(--ink);
+  }
+  .navpanel a:last-child{border-bottom:0}
+  .navpanel a span{font-size:12.5px; color:var(--muted); letter-spacing:.06em}
+  @media (min-width:900px){
+    .burger{display:none}
+    .nav{display:flex; gap:24px; align-items:center; margin-right:20px}
+    .navpanel{display:none !important}
+  }
 
   /* ---------- buttons ---------- */
   .btn{
@@ -407,14 +433,29 @@
         <span class="mark__sub">Gent · 24/7</span>
       </span>
     </a>
+    <nav class="nav"><a href="#boeken">Ritprijs berekenen</a><a href="#vip">VIP-transfer</a><a href="zakelijk.html">Voor bedrijven</a><a href="#prijzen">Vaste prijzen</a><a href="#contact">Contact</a></nav>
+    <button type="button" class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="navpanel">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3.5 7h17M3.5 12h17M3.5 17h17"/></svg>
+    </button>
     <a class="btn btn--ghost topbar__tel" href="tel:+32470534124">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h3l1.5 4-2 1.4a12.5 12.5 0 0 0 6 6l1.4-2 4 1.5v3a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 16.9v2.6a2 2 0 0 1-2.2 2 19.4 19.4 0 0 1-8.4-3 19 19 0 0 1-5.9-5.9 19.4 19.4 0 0 1-3-8.5 2 2 0 0 1 2-2.2h2.6a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L9.9 9.6a15.5 15.5 0 0 0 5.9 5.9l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg>
       0470 53 41 24
     </a>
     <a class="btn btn--wa wa" id="waTop" href="#">
       <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
       WhatsApp
     </a>
+  </div>
+  <div class="navpanel" id="navpanel">
+    <div class="wrap">
+      <a href="#boeken">Ritprijs berekenen<span>adres tot adres</span></a>
+      <a href="#vip">VIP-transfer<span>luchthaven</span></a>
+      <a href="zakelijk.html">Voor bedrijven<span>offerte</span></a>
+      <a href="#prijzen">Vaste ritprijzen<span>Zaventem, Charleroi…</span></a>
+      <a href="#diensten">Onze diensten</a>
+      <a href="#contact">Contact</a>
+      <a href="tel:+32470534124">Bel 0470 53 41 24<span>24/7</span></a>
+    </div>
   </div>
 </header>
 
@@ -430,7 +471,7 @@
           <p class="hero__lead">Vul uw vertrek- en aankomstadres in, u ziet meteen de prijs. Eén bericht volstaat en uw chauffeur staat voor de deur.</p>
           <div class="hero__cta">
             <a class="btn btn--lg btn--gold" href="#boeken">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-5.2 7-10.4A7 7 0 0 0 5 10.6C5 15.8 12 21 12 21Z"/><circle cx="12" cy="10.4" r="2.6"/></svg>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 10.2c0 6.3-8.5 11.8-8.5 11.8S3.5 16.5 3.5 10.2a8.5 8.5 0 0 1 17 0Z"/><circle cx="12" cy="10" r="3"/></svg>
               Bereken mijn rit
             </a>
             <a class="btn btn--lg btn--wa wa" id="waHero" href="#">
@@ -438,14 +479,14 @@
               Boek via WhatsApp
             </a>
             <a class="btn btn--lg btn--ghost" href="tel:+32470534124">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h3l1.5 4-2 1.4a12.5 12.5 0 0 0 6 6l1.4-2 4 1.5v3a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></svg>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 16.9v2.6a2 2 0 0 1-2.2 2 19.4 19.4 0 0 1-8.4-3 19 19 0 0 1-5.9-5.9 19.4 19.4 0 0 1-3-8.5 2 2 0 0 1 2-2.2h2.6a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L9.9 9.6a15.5 15.5 0 0 0 5.9 5.9l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg>
               0470 53 41 24
             </a>
           </div>
           <div class="hero__facts">
             <span class="fact"><svg viewBox="0 0 24 24" fill="currentColor"><path d="m12 3.6 2.6 5.3 5.9.85-4.25 4.15 1 5.85L12 16.99 6.75 19.75l1-5.85L3.5 9.75l5.9-.85L12 3.6Z"/></svg>5 sterren op Google</span>
             <span class="fact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 12.5 9.5 18 20 6.5"/></svg>Vaste prijzen, geen verrassingen</span>
-            <span class="fact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15.5 13 18l-8.5-2.4"/><path d="M3 11.2 12 3l9 8.2-9 3.3-9-3.3Z"/></svg>VIP-luchthaventransfers Zaventem &amp; Charleroi</span>
+            <span class="fact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2.5 11 13"/><path d="M21.5 2.5 14.8 21.5 11 13 2.5 9.2Z"/></svg>VIP-luchthaventransfers Zaventem &amp; Charleroi</span>
           </div>
         </div>
       </div>
@@ -517,7 +558,7 @@
           <p class="out__price num" id="oPrice">Op aanvraag</p>
           <p class="out__break" id="oBreak">Kies uw vertrek- en aankomstadres, u ziet hier meteen de afstand en de prijs.</p>
           <a class="out__maps" id="oMaps" href="https://www.google.com/maps" target="_blank" rel="noopener" hidden>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-5.2 7-10.4A7 7 0 0 0 5 10.6C5 15.8 12 21 12 21Z"/><circle cx="12" cy="10.4" r="2.6"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 10.2c0 6.3-8.5 11.8-8.5 11.8S3.5 16.5 3.5 10.2a8.5 8.5 0 0 1 17 0Z"/><circle cx="12" cy="10" r="3"/></svg>
             Bekijk de route op Google Maps
           </a>
           <div class="actions">
@@ -572,7 +613,7 @@
       <div class="biz">
         <div class="biz__main">
           <span class="biz__tag">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="width:14px;height:14px"><rect x="3" y="7.5" width="18" height="12" rx="2"/><path d="M9 7.5V6a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1.5"/><path d="M3 12.5h18"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="width:14px;height:14px"><rect x="2.5" y="7" width="19" height="13.5" rx="2"/><path d="M15.5 20.5V5a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v15.5"/></svg>
             Voor bedrijven
           </span>
           <h2>Uw vaste chauffeur in Gent, met factuur op het einde van de maand.</h2>
@@ -588,7 +629,7 @@
         </div>
         <ul class="biz__list">
           <li>
-            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3.5h9l3.5 3.5v13H6z"/><path d="M9 11h7M9 15h5"/></svg></span>
+            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2.5H6.5a2 2 0 0 0-2 2v15a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V8Z"/><path d="M14 2.5V8h5.5"/><path d="M8.5 13h7M8.5 16.5h5"/></svg></span>
             <div><b>Maandelijkse facturatie</b><span>Eén factuur per maand met alle ritten, btw-conform, klaar voor uw boekhouding.</span></div>
           </li>
           <li>
@@ -596,15 +637,15 @@
             <div><b>Voorrang bij drukte</b><span>Uw ritten krijgen voorrang, ook tijdens de spits, de Gentse Feesten of een event.</span></div>
           </li>
           <li>
-            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 19.5 12 21l1.5-1.5"/><path d="M21 14.5 13.8 12V6.2a1.8 1.8 0 0 0-3.6 0V12L3 14.5v2l7.2-2.1v4.1"/></svg></span>
+            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5c1 0 1.7.9 1.7 2v4.2l7.3 4.2v2.1l-7.3-2.2v3.9l2.4 1.7v1.6L12 19.3l-4.1.7v-1.6l2.4-1.7v-3.9L3 15v-2.1l7.3-4.2V4.5c0-1.1.7-2 1.7-2Z"/></svg></span>
             <div><b>Luchthaventransfers voor uw team</b><span>Vaste prijzen naar Zaventem en Charleroi, met VIP-onthaal voor uw klanten.</span></div>
           </li>
           <li>
-            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="2.6"/><circle cx="16" cy="9.5" r="2.1"/><path d="M3.5 18.5c0-2.7 2.5-4.5 5.5-4.5s5.5 1.8 5.5 4.5"/><path d="M16 14c2.6.1 4.5 1.8 4.5 4.5"/></svg></span>
+            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20.5v-1.8a3.8 3.8 0 0 0-3.8-3.8H6.3a3.8 3.8 0 0 0-3.8 3.8v1.8"/><circle cx="9.2" cy="7.3" r="3.8"/><path d="M21.5 20.5v-1.8a3.8 3.8 0 0 0-2.8-3.7"/><path d="M15.2 3.7a3.8 3.8 0 0 1 0 7.4"/></svg></span>
             <div><b>Hotelgasten en events</b><span>Shuttles voor seminaries, beurzen en feesten, met minibus tot 8 personen.</span></div>
           </li>
           <li>
-            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h3l1.5 4-2 1.4a12.5 12.5 0 0 0 6 6l1.4-2 4 1.5v3a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></svg></span>
+            <span class="biz__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 16.9v2.6a2 2 0 0 1-2.2 2 19.4 19.4 0 0 1-8.4-3 19 19 0 0 1-5.9-5.9 19.4 19.4 0 0 1-3-8.5 2 2 0 0 1 2-2.2h2.6a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L9.9 9.6a15.5 15.5 0 0 0 5.9 5.9l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg></span>
             <div><b>Eén vast aanspreekpunt</b><span>Dezelfde chauffeur, 24 uur op 24 bereikbaar, die uw afspraken kent.</span></div>
           </li>
         </ul>
@@ -640,14 +681,14 @@
           </div>
         </div>
         <div class="svc__item">
-          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 19.5 12 21l1.5-1.5"/><path d="M21 14.5 13.8 12V6.2a1.8 1.8 0 0 0-3.6 0V12L3 14.5v2l7.2-2.1v4.1"/></svg></span>
+          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5c1 0 1.7.9 1.7 2v4.2l7.3 4.2v2.1l-7.3-2.2v3.9l2.4 1.7v1.6L12 19.3l-4.1.7v-1.6l2.4-1.7v-3.9L3 15v-2.1l7.3-4.2V4.5c0-1.1.7-2 1.7-2Z"/></svg></span>
           <div>
             <h3>Luchthavenvervoer</h3>
             <p>Zaventem, Charleroi, Eindhoven, Amsterdam en Düsseldorf. Wij volgen uw vluchtnummer op en wachten bij vertraging.</p>
           </div>
         </div>
         <div class="svc__item">
-          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20h18"/><path d="M5 20V8l6-4 6 4v12"/><path d="M9.5 20v-4h5v4"/></svg></span>
+          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 9.5 12 3l8.5 6.5V20a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 20Z"/><path d="M9.5 21.5V13h5v8.5"/></svg></span>
           <div>
             <h3>Stadsritten in Gent</h3>
             <p>Van de Korenmarkt tot Sint-Pieters, het UZ of de Gentse Feesten. € 15 voor de eerste 3 km, daarna € 2,60 per km.</p>
@@ -661,14 +702,14 @@
           </div>
         </div>
         <div class="svc__item">
-          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7.5" width="18" height="12" rx="2"/><path d="M9 7.5V6a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1.5"/><path d="M3 12.5h18"/></svg></span>
+          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="7" width="19" height="13.5" rx="2"/><path d="M15.5 20.5V5a2 2 0 0 0-2-2h-3a2 2 0 0 0-2 2v15.5"/></svg></span>
           <div>
             <h3>Zakelijk vervoer en partners</h3>
             <p>Vaste afspraken voor bedrijven, hotels en events, met facturatie per maand. <a href="zakelijk.html">Bekijk het zakelijke aanbod</a>.</p>
           </div>
         </div>
         <div class="svc__item">
-          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="2.6"/><circle cx="16" cy="9.5" r="2.1"/><path d="M3.5 18.5c0-2.7 2.5-4.5 5.5-4.5s5.5 1.8 5.5 4.5"/><path d="M16 14c2.6.1 4.5 1.8 4.5 4.5"/></svg></span>
+          <span class="svc__ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20.5v-1.8a3.8 3.8 0 0 0-3.8-3.8H6.3a3.8 3.8 0 0 0-3.8 3.8v1.8"/><circle cx="9.2" cy="7.3" r="3.8"/><path d="M21.5 20.5v-1.8a3.8 3.8 0 0 0-2.8-3.7"/><path d="M15.2 3.7a3.8 3.8 0 0 1 0 7.4"/></svg></span>
           <div>
             <h3>Groepen tot 8 personen</h3>
             <p>Een minibus met plaats voor bagage, ideaal voor gezinnen, teams of een vlucht met koffers.</p>
@@ -738,11 +779,11 @@
         </div>
         <dl class="dl">
           <div>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h3l1.5 4-2 1.4a12.5 12.5 0 0 0 6 6l1.4-2 4 1.5v3a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 16.9v2.6a2 2 0 0 1-2.2 2 19.4 19.4 0 0 1-8.4-3 19 19 0 0 1-5.9-5.9 19.4 19.4 0 0 1-3-8.5 2 2 0 0 1 2-2.2h2.6a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L9.9 9.6a15.5 15.5 0 0 0 5.9 5.9l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg>
             <div><dt>Telefoon</dt><dd><a href="tel:+32470534124">0470 53 41 24</a></dd></div>
           </div>
           <div>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-5.2 7-10.4A7 7 0 0 0 5 10.6C5 15.8 12 21 12 21Z"/><circle cx="12" cy="10.4" r="2.6"/></svg>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 10.2c0 6.3-8.5 11.8-8.5 11.8S3.5 16.5 3.5 10.2a8.5 8.5 0 0 1 17 0Z"/><circle cx="12" cy="10" r="3"/></svg>
             <div><dt>Adres</dt><dd><a href="https://maps.google.com/maps?q=Hoogstraat%2053C%2C%209000%20Gent%2C%20Belgi%C3%AB" target="_blank" rel="noopener">Hoogstraat 53C, 9000 Gent</a></dd></div>
           </div>
           <div>
@@ -772,7 +813,7 @@
 
 <nav class="actionbar" aria-label="Snelle acties">
   <a class="btn btn--gold" href="tel:+32470534124">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h3l1.5 4-2 1.4a12.5 12.5 0 0 0 6 6l1.4-2 4 1.5v3a2 2 0 0 1-2.2 2A16.8 16.8 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></svg>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 16.9v2.6a2 2 0 0 1-2.2 2 19.4 19.4 0 0 1-8.4-3 19 19 0 0 1-5.9-5.9 19.4 19.4 0 0 1-3-8.5 2 2 0 0 1 2-2.2h2.6a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L9.9 9.6a15.5 15.5 0 0 0 5.9 5.9l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg>
     Bel nu
   </a>
   <a class="btn btn--wa" id="waBar" href="#">
@@ -841,6 +882,22 @@
     var pc = e.loc ? e.loc.slice(0, 4) : "";
     e.rank = e.fixed ? 0 : (pc === "9000" ? 1 : (GENT_PC.indexOf(pc) > -1 ? 2 : 3));
   });
+
+
+  /* ---- menu op gsm ---- */
+  var burger = document.getElementById("burger"), navpanel = document.getElementById("navpanel");
+  if(burger && navpanel){
+    burger.addEventListener("click", function(){
+      var open = navpanel.classList.toggle("is-open");
+      burger.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    navpanel.addEventListener("click", function(ev){
+      if(ev.target.closest("a")){
+        navpanel.classList.remove("is-open");
+        burger.setAttribute("aria-expanded", "false");
+      }
+    });
+  }
 
   /* ---- helpers ---- */
   function euro(n){
