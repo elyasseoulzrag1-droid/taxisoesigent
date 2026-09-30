@@ -128,3 +128,8 @@ J.update({
  "fr":'maximumFractionDigits: 2}) + " \\u20ac";\n  }',
  "en":'maximumFractionDigits: 2});\n  }'},
 })
+
+# libelle des communes dans la liste de suggestions
+J.update({
+" \u00b7 gemeente": {"fr":" \u00b7 commune","en":" \u00b7 town"},
+})
