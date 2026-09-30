@@ -1,0 +1,886 @@
+{
+ "Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp.": {
+  "fr": "Taxi à Gand, 24h/24. Calculez le prix de votre course d'adresse à adresse, prix fixes vers Zaventem et Charleroi, réservation par WhatsApp.",
+  "en": "Taxi in Ghent, 24/7. Work out your fare from address to address, fixed prices to Zaventem and Charleroi, book by WhatsApp."
+ },
+ "Taxi Soesi Gent": {
+  "fr": "Taxi Soesi Gand",
+  "en": "Taxi Soesi Ghent"
+ },
+ "Taxi Soesi": {
+  "fr": "Taxi Soesi",
+  "en": "Taxi Soesi"
+ },
+ "Gent · 24/7": {
+  "fr": "Gand · 24/7",
+  "en": "Ghent · 24/7"
+ },
+ "Ritprijs berekenen": {
+  "fr": "Calculer le prix",
+  "en": "Work out the fare"
+ },
+ "VIP-transfer": {
+  "fr": "Transfert VIP",
+  "en": "VIP transfer"
+ },
+ "Vaste prijzen": {
+  "fr": "Prix fixes",
+  "en": "Fixed prices"
+ },
+ "Voor bedrijven": {
+  "fr": "Pour les entreprises",
+  "en": "For businesses"
+ },
+ "Contact": {
+  "fr": "Contact",
+  "en": "Contact"
+ },
+ "Menu": {
+  "fr": "Menu",
+  "en": "Menu"
+ },
+ "WhatsApp": {
+  "fr": "WhatsApp",
+  "en": "WhatsApp"
+ },
+ "adres tot adres": {
+  "fr": "d'adresse à adresse",
+  "en": "address to address"
+ },
+ "luchthaven": {
+  "fr": "aéroport",
+  "en": "airport"
+ },
+ "Vaste ritprijzen": {
+  "fr": "Prix de course fixes",
+  "en": "Fixed fares"
+ },
+ "Zaventem, Charleroi…": {
+  "fr": "Zaventem, Charleroi…",
+  "en": "Zaventem, Charleroi…"
+ },
+ "Onze diensten": {
+  "fr": "Nos services",
+  "en": "Our services"
+ },
+ "offerte en factuur": {
+  "fr": "devis et facture",
+  "en": "quote and invoice"
+ },
+ "Bel 0470 53 41 24": {
+  "fr": "Appelez le 0470 53 41 24",
+  "en": "Call 0470 53 41 24"
+ },
+ "De zwarte taxiwagen en minibus van Taxi Soesi, klaar voor vertrek": {
+  "fr": "La berline noire et le minibus de Taxi Soesi, prêts au départ",
+  "en": "The black saloon car and minibus of Taxi Soesi, ready to leave"
+ },
+ "Nu beschikbaar in Gent": {
+  "fr": "Disponible dès maintenant à Gand",
+  "en": "Available now in Ghent"
+ },
+ "Uw chauffeur in Gent,": {
+  "fr": "Votre chauffeur à Gand,",
+  "en": "Your driver in Ghent,"
+ },
+ "dag en nacht": {
+  "fr": "jour et nuit",
+  "en": "day and night"
+ },
+ "Vul uw vertrek- en aankomstadres in, u ziet meteen de prijs. Eén bericht volstaat en uw chauffeur staat voor de deur.": {
+  "fr": "Indiquez votre adresse de départ et d'arrivée, le prix s'affiche aussitôt. Un seul message et votre chauffeur est devant la porte.",
+  "en": "Enter your pick-up and drop-off address and the price appears straight away. One message and your driver is at the door."
+ },
+ "Bereken mijn rit": {
+  "fr": "Calculer ma course",
+  "en": "Work out my fare"
+ },
+ "Boek via WhatsApp": {
+  "fr": "Réserver par WhatsApp",
+  "en": "Book by WhatsApp"
+ },
+ "5 sterren op Google": {
+  "fr": "5 étoiles sur Google",
+  "en": "5 stars on Google"
+ },
+ "Vaste prijzen, geen verrassingen": {
+  "fr": "Prix fixes, aucune surprise",
+  "en": "Fixed prices, no surprises"
+ },
+ "VIP-luchthaventransfers Zaventem &amp; Charleroi": {
+  "fr": "Transferts VIP aéroport Zaventem &amp; Charleroi",
+  "en": "VIP airport transfers Zaventem &amp; Charleroi"
+ },
+ "Uw rit berekenen en boeken": {
+  "fr": "Calculer et réserver votre course",
+  "en": "Work out and book your ride"
+ },
+ "Van welk adres naar welk adres?": {
+  "fr": "De quelle adresse à quelle adresse ?",
+  "en": "From which address to which address?"
+ },
+ "€ 15 voor de eerste 3 kilometer, daarna € 2,60 per bijkomende kilometer. Voor de luchthavens en de lange afstanden geldt onze vaste prijs.": {
+  "fr": "15 € pour les 3 premiers kilomètres, puis 2,60 € par kilomètre supplémentaire. Pour les aéroports et les longues distances, notre prix fixe s'applique.",
+  "en": "€15 for the first 3 kilometres, then €2.60 for each extra kilometre. For airports and long distances our fixed price applies."
+ },
+ "Vertrekadres": {
+  "fr": "Adresse de départ",
+  "en": "Pick-up address"
+ },
+ "bv. Hoogstraat 53, 9000 Gent": {
+  "fr": "ex. Hoogstraat 53, 9000 Gent",
+  "en": "e.g. Hoogstraat 53, 9000 Gent"
+ },
+ "Omdraaien": {
+  "fr": "Inverser",
+  "en": "Swap"
+ },
+ "Aankomstadres": {
+  "fr": "Adresse d'arrivée",
+  "en": "Drop-off address"
+ },
+ "bv. Luchthaven Zaventem": {
+  "fr": "ex. Aéroport de Zaventem",
+  "en": "e.g. Zaventem Airport"
+ },
+ "Datum": {
+  "fr": "Date",
+  "en": "Date"
+ },
+ "Uur": {
+  "fr": "Heure",
+  "en": "Time"
+ },
+ "Aantal personen": {
+  "fr": "Nombre de personnes",
+  "en": "Number of passengers"
+ },
+ "5 tot 8 (minibus)": {
+  "fr": "5 à 8 (minibus)",
+  "en": "5 to 8 (minibus)"
+ },
+ "VIP-transfer toevoegen": {
+  "fr": "Ajouter le transfert VIP",
+  "en": "Add the VIP transfer"
+ },
+ "Enkel bij een luchthavenrit: chauffeur in pak, meet &amp; greet met naambord en vluchtopvolging. Supplement op aanvraag.": {
+  "fr": "Uniquement pour une course vers l'aéroport : chauffeur en costume, accueil avec pancarte à votre nom et suivi du vol. Supplément sur demande.",
+  "en": "Airport rides only: driver in a suit, meet and greet with a name board, and flight tracking. Supplement on request."
+ },
+ "Typ uw straat en kies ze uit de lijst, het huisnummer mag erbij. Alle straten van Gent en tot 50 km rond Gent zitten in de lijst, ook Zeeland en Henegouwen. Laat de datum leeg voor een rit zo snel mogelijk.": {
+  "fr": "Tapez votre rue et choisissez-la dans la liste, le numéro peut être ajouté. Toutes les rues de Gand et jusqu'à 50 km autour de Gand sont dans la liste, la Zélande et le Hainaut compris. Laissez la date vide pour une course au plus vite.",
+  "en": "Type your street and pick it from the list, the house number can be added. Every street in Ghent and up to 50 km around Ghent is in the list, Zeeland and Hainaut included. Leave the date empty for a ride as soon as possible."
+ },
+ "Vul uw adressen in": {
+  "fr": "Indiquez vos adresses",
+  "en": "Enter your addresses"
+ },
+ "Op aanvraag": {
+  "fr": "Sur demande",
+  "en": "On request"
+ },
+ "Kies uw vertrek- en aankomstadres, u ziet hier meteen de afstand en de prijs.": {
+  "fr": "Choisissez votre adresse de départ et d'arrivée, la distance et le prix s'affichent ici aussitôt.",
+  "en": "Choose your pick-up and drop-off address and the distance and price appear here straight away."
+ },
+ "Bekijk de route op Google Maps": {
+  "fr": "Voir l'itinéraire sur Google Maps",
+  "en": "See the route on Google Maps"
+ },
+ "Verstuur via WhatsApp": {
+  "fr": "Envoyer par WhatsApp",
+  "en": "Send by WhatsApp"
+ },
+ "Dit is een richtprijs op basis van de afstand tussen beide adressen. De definitieve prijs kan licht variëren volgens de gekozen route, het verkeer, het aantal personen en eventuele wachttijd. U krijgt de exacte prijs bij uw bevestiging, vóór vertrek.": {
+  "fr": "Ceci est un prix indicatif basé sur la distance entre les deux adresses. Le prix définitif peut varier légèrement selon l'itinéraire choisi, le trafic, le nombre de personnes et un éventuel temps d'attente. Vous recevez le prix exact à la confirmation, avant le départ.",
+  "en": "This is a guide price based on the distance between the two addresses. The final price may vary slightly with the route taken, traffic, the number of passengers and any waiting time. You get the exact price when you confirm, before departure."
+ },
+ "VIP luchthaventransfer": {
+  "fr": "Transfert VIP aéroport",
+  "en": "VIP airport transfer"
+ },
+ "Aankomen zoals u vertrokken bent: rustig en op tijd.": {
+  "fr": "Arriver comme vous êtes parti : tranquille et à l'heure.",
+  "en": "Arrive the way you left: calm and on time."
+ },
+ "Onze VIP-service geldt uitsluitend voor luchthaventransfers: Zaventem, Charleroi, Eindhoven, Amsterdam, Düsseldorf, Dortmund en Parijs. Een chauffeur in pak, een onberispelijke wagen en een persoonlijk onthaal in de aankomsthal.": {
+  "fr": "Notre service VIP concerne uniquement les transferts aéroport : Zaventem, Charleroi, Eindhoven, Amsterdam, Düsseldorf, Dortmund et Paris. Un chauffeur en costume, une voiture impeccable et un accueil personnel dans le hall d'arrivée.",
+  "en": "Our VIP service covers airport transfers only: Zaventem, Charleroi, Eindhoven, Amsterdam, Düsseldorf, Dortmund and Paris. A driver in a suit, a spotless car and a personal welcome in the arrivals hall."
+ },
+ "VIP-transfer aanvragen": {
+  "fr": "Demander un transfert VIP",
+  "en": "Request a VIP transfer"
+ },
+ "Meet &amp; greet met naambord": {
+  "fr": "Accueil avec pancarte à votre nom",
+  "en": "Meet and greet with a name board"
+ },
+ "in de aankomsthal, wij dragen uw bagage.": {
+  "fr": "dans le hall d'arrivée, nous portons vos bagages.",
+  "en": "in the arrivals hall, we carry your luggage."
+ },
+ "Vluchtopvolging": {
+  "fr": "Suivi du vol",
+  "en": "Flight tracking"
+ },
+ "op uw vluchtnummer, wij passen het uur gratis aan bij vertraging.": {
+  "fr": "sur votre numéro de vol, nous adaptons l'heure gratuitement en cas de retard.",
+  "en": "on your flight number, we adjust the time free of charge if you are delayed."
+ },
+ "Chauffeur in pak": {
+  "fr": "Chauffeur en costume",
+  "en": "Driver in a suit"
+ },
+ ", discreet en stipt, met water aan boord.": {
+  "fr": ", discret et ponctuel, avec de l'eau à bord.",
+  "en": ", discreet and punctual, with water on board."
+ },
+ "Berline of minibus tot 8 personen": {
+  "fr": "Berline ou minibus jusqu'à 8 personnes",
+  "en": "Saloon car or minibus for up to 8"
+ },
+ ", ook voor uw team of uw gasten.": {
+  "fr": ", aussi pour votre équipe ou vos invités.",
+  "en": ", for your team or your guests as well."
+ },
+ "Factuur voor bedrijven": {
+  "fr": "Facture pour les entreprises",
+  "en": "Invoice for businesses"
+ },
+ ", met een vaste prijs afgesproken op voorhand.": {
+  "fr": ", avec un prix fixe convenu à l'avance.",
+  "en": ", with a fixed price agreed in advance."
+ },
+ "Basis vanaf de vaste ritprijs, bijvoorbeeld Gent naar Zaventem € 125. VIP-supplement op aanvraag, altijd vooraf bevestigd.": {
+  "fr": "Base à partir du prix de course fixe, par exemple Gand vers Zaventem 125 €. Supplément VIP sur demande, toujours confirmé à l'avance.",
+  "en": "Based on the fixed fare, for example Ghent to Zaventem €125. VIP supplement on request, always confirmed beforehand."
+ },
+ "Uw vaste chauffeur in Gent, met factuur op het einde van de maand.": {
+  "fr": "Votre chauffeur attitré à Gand, avec facture à la fin du mois.",
+  "en": "Your regular driver in Ghent, with an invoice at the end of the month."
+ },
+ "Bedrijven, hotels, ziekenhuizen en organisatoren rekenen op ons voor hun klanten, hun gasten en hun medewerkers. U belt of appt, wij regelen de rest, en u betaalt per maand in plaats van per rit.": {
+  "fr": "Entreprises, hôtels, hôpitaux et organisateurs comptent sur nous pour leurs clients, leurs invités et leurs collaborateurs. Vous appelez ou vous écrivez, nous nous occupons du reste, et vous payez au mois plutôt qu'à la course.",
+  "en": "Companies, hotels, hospitals and event organisers rely on us for their clients, their guests and their staff. You call or message, we handle the rest, and you pay monthly instead of per ride."
+ },
+ "Zakelijke offerte aanvragen": {
+  "fr": "Demander un devis entreprise",
+  "en": "Request a business quote"
+ },
+ "Alles over zakelijk vervoer": {
+  "fr": "Tout sur le transport d'entreprise",
+  "en": "All about business transport"
+ },
+ "Maandelijkse facturatie": {
+  "fr": "Facturation mensuelle",
+  "en": "Monthly invoicing"
+ },
+ "Eén factuur per maand met alle ritten, btw-conform, klaar voor uw boekhouding.": {
+  "fr": "Une seule facture par mois avec toutes les courses, conforme à la TVA, prête pour votre comptabilité.",
+  "en": "One invoice a month with every ride, VAT compliant, ready for your bookkeeping."
+ },
+ "Voorrang bij drukte": {
+  "fr": "Priorité aux heures de pointe",
+  "en": "Priority when it is busy"
+ },
+ "Uw ritten krijgen voorrang, ook tijdens de spits, de Gentse Feesten of een event.": {
+  "fr": "Vos courses passent en priorité, même aux heures de pointe, pendant les Fêtes de Gand ou lors d'un événement.",
+  "en": "Your rides come first, even in rush hour, during the Ghent Festival or at an event."
+ },
+ "Luchthaventransfers voor uw team": {
+  "fr": "Transferts aéroport pour votre équipe",
+  "en": "Airport transfers for your team"
+ },
+ "Vaste prijzen naar Zaventem en Charleroi, met VIP-onthaal voor uw klanten.": {
+  "fr": "Prix fixes vers Zaventem et Charleroi, avec accueil VIP pour vos clients.",
+  "en": "Fixed prices to Zaventem and Charleroi, with a VIP welcome for your clients."
+ },
+ "Hotelgasten en events": {
+  "fr": "Clients d'hôtel et événements",
+  "en": "Hotel guests and events"
+ },
+ "Shuttles voor seminaries, beurzen en feesten, met minibus tot 8 personen.": {
+  "fr": "Navettes pour séminaires, salons et réceptions, avec minibus jusqu'à 8 personnes.",
+  "en": "Shuttles for seminars, trade fairs and parties, with a minibus for up to 8."
+ },
+ "Eén vast aanspreekpunt": {
+  "fr": "Un seul interlocuteur",
+  "en": "One point of contact"
+ },
+ "Dezelfde chauffeur, 24 uur op 24 bereikbaar, die uw afspraken kent.": {
+  "fr": "Le même chauffeur, joignable 24h/24, qui connaît vos habitudes.",
+  "en": "The same driver, reachable around the clock, who knows your arrangements."
+ },
+ "Vaste ritprijzen vanuit Gent": {
+  "fr": "Prix de course fixes au départ de Gand",
+  "en": "Fixed fares from Ghent"
+ },
+ "Luchthavens en lange afstand": {
+  "fr": "Aéroports et longues distances",
+  "en": "Airports and long distance"
+ },
+ "Tik op een bestemming, ze wordt meteen ingevuld als aankomstadres hierboven.": {
+  "fr": "Touchez une destination, elle se place aussitôt comme adresse d'arrivée ci-dessus.",
+  "en": "Tap a destination and it drops straight into the drop-off address above."
+ },
+ "Voor elke rit in Gent en ver daarbuiten": {
+  "fr": "Pour chaque course à Gand et bien au-delà",
+  "en": "For every ride in Ghent and far beyond"
+ },
+ "Chauffeur in pak, meet &amp; greet met naambord en vluchtopvolging.": {
+  "fr": "Chauffeur en costume, accueil avec pancarte à votre nom et suivi du vol.",
+  "en": "Driver in a suit, meet and greet with a name board, and flight tracking."
+ },
+ "Bekijk de VIP-service": {
+  "fr": "Voir le service VIP",
+  "en": "See the VIP service"
+ },
+ "Luchthavenvervoer": {
+  "fr": "Transport aéroport",
+  "en": "Airport transport"
+ },
+ "Zaventem, Charleroi, Eindhoven, Amsterdam en Düsseldorf. Wij volgen uw vluchtnummer op en wachten bij vertraging.": {
+  "fr": "Zaventem, Charleroi, Eindhoven, Amsterdam et Düsseldorf. Nous suivons votre numéro de vol et nous attendons en cas de retard.",
+  "en": "Zaventem, Charleroi, Eindhoven, Amsterdam and Düsseldorf. We track your flight number and wait if you are delayed."
+ },
+ "Stadsritten in Gent": {
+  "fr": "Courses en ville à Gand",
+  "en": "City rides in Ghent"
+ },
+ "Van de Korenmarkt tot Sint-Pieters, het UZ of de Gentse Feesten. € 15 voor de eerste 3 km, daarna € 2,60 per km.": {
+  "fr": "Du Korenmarkt à Sint-Pieters, de l'UZ aux Fêtes de Gand. 15 € pour les 3 premiers km, puis 2,60 € le km.",
+  "en": "From the Korenmarkt to Sint-Pieters, the university hospital or the Ghent Festival. €15 for the first 3 km, then €2.60 per km."
+ },
+ "Dag en nacht, 7 op 7": {
+  "fr": "Jour et nuit, 7 jours sur 7",
+  "en": "Day and night, seven days a week"
+ },
+ "Vroege vlucht om 4 uur of laat naar huis na een feest: wij rijden op elk uur van de dag.": {
+  "fr": "Vol tôt à 4h ou retour tard après une soirée : nous roulons à toute heure.",
+  "en": "An early flight at 4am or a late ride home after a party: we drive at any hour."
+ },
+ "Zakelijk vervoer en partners": {
+  "fr": "Transport d'entreprise et partenaires",
+  "en": "Business transport and partners"
+ },
+ "Vaste afspraken voor bedrijven, hotels en events, met facturatie per maand.": {
+  "fr": "Accords fixes pour entreprises, hôtels et événements, avec facturation mensuelle.",
+  "en": "Standing arrangements for companies, hotels and events, invoiced monthly."
+ },
+ "Bekijk het zakelijke aanbod": {
+  "fr": "Voir l'offre entreprises",
+  "en": "See the business offer"
+ },
+ "Groepen tot 8 personen": {
+  "fr": "Groupes jusqu'à 8 personnes",
+  "en": "Groups of up to 8"
+ },
+ "Een minibus met plaats voor bagage, ideaal voor gezinnen, teams of een vlucht met koffers.": {
+  "fr": "Un minibus avec de la place pour les bagages, idéal pour les familles, les équipes ou un vol avec valises.",
+  "en": "A minibus with room for luggage, ideal for families, teams or a flight with suitcases."
+ },
+ "Waarom Taxi Soesi": {
+  "fr": "Pourquoi Taxi Soesi",
+  "en": "Why Taxi Soesi"
+ },
+ "Stipt, comfortabel en altijd dezelfde prijs": {
+  "fr": "Ponctuel, confortable et toujours le même prix",
+  "en": "Punctual, comfortable and always the same price"
+ },
+ "Altijd bereikbaar": {
+  "fr": "Toujours joignable",
+  "en": "Always reachable"
+ },
+ "Een chauffeur aan de lijn, geen wachtmuziek en geen app-account nodig.": {
+  "fr": "Un chauffeur au bout du fil, pas de musique d'attente et aucun compte d'application à créer.",
+  "en": "A driver on the line, no hold music and no app account needed."
+ },
+ "Tevreden klanten": {
+  "fr": "Clients satisfaits",
+  "en": "Happy customers"
+ },
+ "Vaste klanten in Gent en omgeving die ons blijven bellen voor elke rit.": {
+  "fr": "Des clients fidèles à Gand et dans la région qui nous rappellent pour chaque course.",
+  "en": "Regular customers in and around Ghent who keep calling us for every ride."
+ },
+ "Verborgen kosten": {
+  "fr": "Frais cachés",
+  "en": "Hidden costs"
+ },
+ "De prijs die u krijgt bij uw boeking is de prijs die u betaalt, ook in het weekend.": {
+  "fr": "Le prix annoncé à la réservation est le prix que vous payez, le week-end aussi.",
+  "en": "The price you get when you book is the price you pay, weekends included."
+ },
+ "1 tot 8": {
+  "fr": "1 à 8",
+  "en": "1 to 8"
+ },
+ "Wagens naar keuze": {
+  "fr": "Véhicules au choix",
+  "en": "Vehicles to choose from"
+ },
+ "Comfortabele berline tot 4 personen of minibus tot 8 personen met bagage.": {
+  "fr": "Berline confortable jusqu'à 4 personnes ou minibus jusqu'à 8 personnes avec bagages.",
+  "en": "A comfortable saloon car for up to 4 or a minibus for up to 8 with luggage."
+ },
+ "“De service van Taxi Soesi is uitmuntend. Altijd op tijd, vriendelijke chauffeurs en comfortabele wagens. Een absolute aanrader voor iedereen in Gent.”": {
+  "fr": "« Le service de Taxi Soesi est excellent. Toujours à l'heure, des chauffeurs aimables et des voitures confortables. À recommander absolument à Gand. »",
+  "en": "“The service from Taxi Soesi is excellent. Always on time, friendly drivers and comfortable cars. An absolute recommendation for anyone in Ghent.”"
+ },
+ "Annelies V. · Google review": {
+  "fr": "Annelies V. · avis Google",
+  "en": "Annelies V. · Google review"
+ },
+ "Bel, app of spring binnen": {
+  "fr": "Appelez, écrivez ou passez nous voir",
+  "en": "Call, message or drop by"
+ },
+ "Voor een rit binnen het uur belt u het best. Voor een reservatie later op de dag is WhatsApp het snelst.": {
+  "fr": "Pour une course dans l'heure, mieux vaut appeler. Pour une réservation plus tard dans la journée, WhatsApp est le plus rapide.",
+  "en": "For a ride within the hour, calling works best. For a booking later in the day, WhatsApp is quickest."
+ },
+ "Start een WhatsApp-gesprek": {
+  "fr": "Démarrer une conversation WhatsApp",
+  "en": "Start a WhatsApp chat"
+ },
+ "Telefoon": {
+  "fr": "Téléphone",
+  "en": "Phone"
+ },
+ "Adres": {
+  "fr": "Adresse",
+  "en": "Address"
+ },
+ "Hoogstraat 53C, 9000 Gent": {
+  "fr": "Hoogstraat 53C, 9000 Gent",
+  "en": "Hoogstraat 53C, 9000 Ghent"
+ },
+ "Openingsuren": {
+  "fr": "Heures d'ouverture",
+  "en": "Opening hours"
+ },
+ "Elke dag, 24 uur op 24": {
+  "fr": "Tous les jours, 24h/24",
+  "en": "Every day, around the clock"
+ },
+ "Werkgebied": {
+  "fr": "Zone desservie",
+  "en": "Area covered"
+ },
+ "Gent en omgeving, heel België, Nederland, Frankrijk en Duitsland": {
+  "fr": "Gand et sa région, toute la Belgique, les Pays-Bas, la France et l'Allemagne",
+  "en": "Ghent and the surrounding area, all of Belgium, the Netherlands, France and Germany"
+ },
+ "Over Taxi Soesi": {
+  "fr": "À propos de Taxi Soesi",
+  "en": "About Taxi Soesi"
+ },
+ "Ritprijzen en tarieven": {
+  "fr": "Prix des courses et tarifs",
+  "en": "Fares and rates"
+ },
+ "Partners en zakelijk vervoer": {
+  "fr": "Partenaires et transport d'entreprise",
+  "en": "Partners and business transport"
+ },
+ "© 2026 Taxi Soesi, powered by Novara": {
+  "fr": "© 2026 Taxi Soesi, powered by Novara",
+  "en": "© 2026 Taxi Soesi, powered by Novara"
+ },
+ "Snelle acties": {
+  "fr": "Actions rapides",
+  "en": "Quick actions"
+ },
+ "Bel nu": {
+  "fr": "Appeler",
+  "en": "Call"
+ },
+ "Boek een taxi via WhatsApp": {
+  "fr": "Réserver un taxi par WhatsApp",
+  "en": "Book a taxi by WhatsApp"
+ },
+ "Zakelijk taxivervoer in Gent: vaste prijzen, maandelijkse factuur, luchthaventransfers voor bedrijven, hotels, zorg en events.": {
+  "fr": "Transport de personnes pour entreprises à Gand : prix fixes, facture mensuelle, transferts aéroport pour sociétés, hôtels, soins de santé et événements.",
+  "en": "Business taxi transport in Ghent: fixed prices, monthly invoice, airport transfers for companies, hotels, healthcare and events."
+ },
+ "Taxi Soesi Zakelijk": {
+  "fr": "Taxi Soesi Entreprises",
+  "en": "Taxi Soesi Business"
+ },
+ "Zakelijk vervoer": {
+  "fr": "Entreprises",
+  "en": "Business"
+ },
+ "Offerte": {
+  "fr": "Devis",
+  "en": "Quote"
+ },
+ "Website": {
+  "fr": "Site web",
+  "en": "Website"
+ },
+ "op de website": {
+  "fr": "sur le site",
+  "en": "on the website"
+ },
+ "deze pagina": {
+  "fr": "cette page",
+  "en": "this page"
+ },
+ "Voor wie wij rijden": {
+  "fr": "Pour qui nous roulons",
+  "en": "Who we drive for"
+ },
+ "Offerte aanvragen": {
+  "fr": "Demander un devis",
+  "en": "Request a quote"
+ },
+ "per e-mail": {
+  "fr": "par e-mail",
+  "en": "by email"
+ },
+ "Zakelijke ritten in Gent en heel België": {
+  "fr": "Courses professionnelles à Gand et dans toute la Belgique",
+  "en": "Business rides in Ghent and across Belgium"
+ },
+ "Uw bedrijf heeft": {
+  "fr": "Votre entreprise a besoin d'",
+  "en": "Your company needs"
+ },
+ "één chauffeur": {
+  "fr": "un seul chauffeur",
+  "en": "one driver"
+ },
+ "nodig, geen tien apps.": {
+  "fr": ", pas de dix applications.",
+  "en": ", not ten apps."
+ },
+ "Vaste prijzen, ritten op afroep 24 uur op 24, en één factuur op het einde van de maand. Voor uw klanten, uw gasten en uw medewerkers.": {
+  "fr": "Prix fixes, courses à la demande 24h/24, et une seule facture à la fin du mois. Pour vos clients, vos invités et vos collaborateurs.",
+  "en": "Fixed prices, rides on call around the clock, and a single invoice at the end of the month. For your clients, your guests and your staff."
+ },
+ "Vraag uw offerte aan": {
+  "fr": "Demandez votre devis",
+  "en": "Request your quote"
+ },
+ "Maandelijkse factuur, btw-conform": {
+  "fr": "Facture mensuelle, conforme à la TVA",
+  "en": "Monthly invoice, VAT compliant"
+ },
+ "Vaste prijzen op maat": {
+  "fr": "Prix fixes sur mesure",
+  "en": "Fixed prices tailored to you"
+ },
+ "24/7 bereikbaar, ook in het weekend": {
+  "fr": "Joignable 24h/24, le week-end aussi",
+  "en": "Reachable 24/7, weekends included"
+ },
+ "Wat u krijgt": {
+  "fr": "Ce que vous obtenez",
+  "en": "What you get"
+ },
+ "Vervoer dat u niet meer hoeft op te volgen": {
+  "fr": "Un transport que vous n'avez plus à suivre",
+  "en": "Transport you no longer have to chase"
+ },
+ "U geeft door wie waar moet zijn en wanneer. Wij regelen de chauffeur, de wagen en de opvolging, en u ziet het resultaat op één factuur.": {
+  "fr": "Vous indiquez qui doit être où et quand. Nous nous occupons du chauffeur, du véhicule et du suivi, et vous voyez le résultat sur une seule facture.",
+  "en": "You tell us who needs to be where and when. We arrange the driver, the car and the follow-up, and you see the result on one invoice."
+ },
+ "Eén factuur per maand": {
+  "fr": "Une facture par mois",
+  "en": "One invoice a month"
+ },
+ "Alle ritten gebundeld, met datum, traject en prijs per rit. Btw-conform en klaar voor uw boekhouding. Betaling op 30 dagen.": {
+  "fr": "Toutes les courses regroupées, avec date, trajet et prix par course. Conforme à la TVA et prête pour votre comptabilité. Paiement à 30 jours.",
+  "en": "Every ride together, with date, route and price per ride. VAT compliant and ready for your bookkeeping. Payment within 30 days."
+ },
+ "Voorrang op uw ritten": {
+  "fr": "Priorité sur vos courses",
+  "en": "Priority on your rides"
+ },
+ "Uw aanvragen komen eerst, ook tijdens de spits, de Gentse Feesten of een beurs in Flanders Expo.": {
+  "fr": "Vos demandes passent en premier, même aux heures de pointe, pendant les Fêtes de Gand ou lors d'un salon à Flanders Expo.",
+  "en": "Your requests come first, even in rush hour, during the Ghent Festival or a trade fair at Flanders Expo."
+ },
+ "Luchthaventransfers": {
+  "fr": "Transferts aéroport",
+  "en": "Airport transfers"
+ },
+ "Zaventem € 125, Charleroi € 175, all-in vanuit Gent. Vluchtopvolging inbegrepen, met VIP-onthaal voor uw klanten.": {
+  "fr": "Zaventem 125 €, Charleroi 175 €, tout compris au départ de Gand. Suivi du vol inclus, avec accueil VIP pour vos clients.",
+  "en": "Zaventem €125, Charleroi €175, all in from Ghent. Flight tracking included, with a VIP welcome for your clients."
+ },
+ "Minibus met bagageruimte voor teams, delegaties en shuttles tussen hotel, kantoor en evenement.": {
+  "fr": "Minibus avec espace bagages pour équipes, délégations et navettes entre hôtel, bureau et événement.",
+  "en": "Minibus with luggage space for teams, delegations and shuttles between hotel, office and venue."
+ },
+ "Eén aanspreekpunt": {
+  "fr": "Un interlocuteur unique",
+  "en": "A single point of contact"
+ },
+ "Dezelfde chauffeur die uw afspraken kent, rechtstreeks bereikbaar per telefoon of WhatsApp, zonder callcenter.": {
+  "fr": "Le même chauffeur, qui connaît vos habitudes, joignable directement par téléphone ou WhatsApp, sans centre d'appel.",
+  "en": "The same driver, who knows your arrangements, reachable directly by phone or WhatsApp, with no call centre."
+ },
+ "Discretie": {
+  "fr": "Discrétion",
+  "en": "Discretion"
+ },
+ "Verzorgde wagens, chauffeur in pak op aanvraag, en geen gesprekken die het voertuig verlaten.": {
+  "fr": "Des véhicules soignés, un chauffeur en costume sur demande, et aucune conversation qui sort du véhicule.",
+  "en": "Well-kept cars, a driver in a suit on request, and no conversation that leaves the vehicle."
+ },
+ "Hotels, bedrijven, zorg en events in Gent en omstreken.": {
+  "fr": "Hôtels, entreprises, soins de santé et événements à Gand et dans les environs.",
+  "en": "Hotels, companies, healthcare and events in and around Ghent."
+ },
+ "Van een enkele klant die u van de luchthaven laat halen tot een volledige shuttle tijdens een congres: wij passen ons aan uw ritme aan, niet omgekeerd.": {
+  "fr": "D'un seul client à aller chercher à l'aéroport jusqu'à une navette complète pendant un congrès : nous nous adaptons à votre rythme, pas l'inverse.",
+  "en": "From a single client to collect at the airport to a full shuttle during a conference: we fit your pace, not the other way round."
+ },
+ "Hotels en gastenverblijven": {
+  "fr": "Hôtels et maisons d'hôtes",
+  "en": "Hotels and guest houses"
+ },
+ "Transfers voor uw gasten, op naam geboekt aan de receptie, met factuur voor het hotel.": {
+  "fr": "Transferts pour vos clients, réservés au nom du client à la réception, avec facture pour l'hôtel.",
+  "en": "Transfers for your guests, booked by name at reception, invoiced to the hotel."
+ },
+ "Bedrijven en kantoren": {
+  "fr": "Entreprises et bureaux",
+  "en": "Companies and offices"
+ },
+ "Medewerkers naar de luchthaven, klanten van en naar Gent-Sint-Pieters, bezoekers naar uw site.": {
+  "fr": "Vos collaborateurs vers l'aéroport, vos clients depuis et vers Gent-Sint-Pieters, vos visiteurs jusqu'à votre site.",
+  "en": "Staff to the airport, clients to and from Gent-Sint-Pieters, visitors to your site."
+ },
+ "Zorg en ziekenhuizen": {
+  "fr": "Soins de santé et hôpitaux",
+  "en": "Healthcare and hospitals"
+ },
+ "Ritten naar UZ Gent, AZ Sint-Lucas, AZ Maria Middelares en AZ Jan Palfijn, op vaste uren.": {
+  "fr": "Courses vers l'UZ Gent, l'AZ Sint-Lucas, l'AZ Maria Middelares et l'AZ Jan Palfijn, à heures fixes.",
+  "en": "Rides to UZ Gent, AZ Sint-Lucas, AZ Maria Middelares and AZ Jan Palfijn, at set times."
+ },
+ "Events, beurzen en congressen": {
+  "fr": "Événements, salons et congrès",
+  "en": "Events, trade fairs and conferences"
+ },
+ "Shuttles tussen Flanders Expo, ICC Gent, uw hotel en het station, met meerdere wagens indien nodig.": {
+  "fr": "Navettes entre Flanders Expo, l'ICC Gent, votre hôtel et la gare, avec plusieurs véhicules si nécessaire.",
+  "en": "Shuttles between Flanders Expo, ICC Ghent, your hotel and the station, with several cars if needed."
+ },
+ "Vastgoed en notariaat": {
+  "fr": "Immobilier et notariat",
+  "en": "Property and notaries"
+ },
+ "Bezoekers ophalen en terugbrengen tussen afspraken, met wachttijd op maat.": {
+  "fr": "Prise en charge et retour des visiteurs entre deux rendez-vous, avec temps d'attente sur mesure.",
+  "en": "Collecting visitors and bringing them back between appointments, with waiting time to suit."
+ },
+ "Vertel ons wat u nodig heeft": {
+  "fr": "Dites-nous ce dont vous avez besoin",
+  "en": "Tell us what you need"
+ },
+ "Vul het formulier in of mail ons rechtstreeks. U krijgt binnen één werkdag een voorstel met vaste prijzen voor uw vaste trajecten.": {
+  "fr": "Remplissez le formulaire ou écrivez-nous directement. Vous recevez sous un jour ouvrable une proposition avec des prix fixes pour vos trajets habituels.",
+  "en": "Fill in the form or email us directly. Within one working day you get a proposal with fixed prices for your regular routes."
+ },
+ "Bedrijf": {
+  "fr": "Entreprise",
+  "en": "Company"
+ },
+ "bv. Hotel Pillows Gent": {
+  "fr": "ex. Hotel Pillows Gent",
+  "en": "e.g. Hotel Pillows Gent"
+ },
+ "Contactpersoon": {
+  "fr": "Personne de contact",
+  "en": "Contact person"
+ },
+ "Voor- en achternaam": {
+  "fr": "Prénom et nom",
+  "en": "First and last name"
+ },
+ "Functie": {
+  "fr": "Fonction",
+  "en": "Role"
+ },
+ "bv. office manager": {
+  "fr": "ex. office manager",
+  "en": "e.g. office manager"
+ },
+ "E-mailadres": {
+  "fr": "Adresse e-mail",
+  "en": "Email address"
+ },
+ "naam@bedrijf.be": {
+  "fr": "nom@entreprise.be",
+  "en": "name@company.be"
+ },
+ "Soort ritten": {
+  "fr": "Type de courses",
+  "en": "Type of rides"
+ },
+ "Klanten en bezoekers": {
+  "fr": "Clients et visiteurs",
+  "en": "Clients and visitors"
+ },
+ "Medewerkers": {
+  "fr": "Collaborateurs",
+  "en": "Staff"
+ },
+ "Hotelgasten": {
+  "fr": "Clients d'hôtel",
+  "en": "Hotel guests"
+ },
+ "Events en shuttles": {
+  "fr": "Événements et navettes",
+  "en": "Events and shuttles"
+ },
+ "Zorgritten": {
+  "fr": "Courses médicales",
+  "en": "Healthcare rides"
+ },
+ "Verschillende soorten": {
+  "fr": "Plusieurs types",
+  "en": "Several kinds"
+ },
+ "Ritten per maand": {
+  "fr": "Courses par mois",
+  "en": "Rides per month"
+ },
+ "1 tot 5": {
+  "fr": "1 à 5",
+  "en": "1 to 5"
+ },
+ "5 tot 20": {
+  "fr": "5 à 20",
+  "en": "5 to 20"
+ },
+ "20 tot 50": {
+  "fr": "20 à 50",
+  "en": "20 to 50"
+ },
+ "Meer dan 50": {
+  "fr": "Plus de 50",
+  "en": "More than 50"
+ },
+ "Nog niet geweten": {
+  "fr": "Pas encore défini",
+  "en": "Not known yet"
+ },
+ "Uw bericht": {
+  "fr": "Votre message",
+  "en": "Your message"
+ },
+ "bv. vaste transfers Gent naar Zaventem, meestal vroege vluchten, af en toe een minibus voor zes personen.": {
+  "fr": "ex. transferts réguliers Gand vers Zaventem, surtout des vols tôt le matin, parfois un minibus pour six personnes.",
+  "en": "e.g. regular transfers Ghent to Zaventem, mostly early flights, now and then a minibus for six."
+ },
+ "Verstuur de aanvraag": {
+  "fr": "Envoyer la demande",
+  "en": "Send the request"
+ },
+ "Uw aanvraag vertrekt naar": {
+  "fr": "Votre demande part vers",
+  "en": "Your request goes to"
+ },
+ ". Liever meteen iemand spreken? Bel": {
+  "fr": ". Vous préférez parler à quelqu'un tout de suite ? Appelez le",
+  "en": ". Rather speak to someone right away? Call"
+ },
+ ", elke dag, 24 uur op 24.": {
+  "fr": ", tous les jours, 24h/24.",
+  "en": ", every day, around the clock."
+ },
+ "Rechtstreeks contact": {
+  "fr": "Contact direct",
+  "en": "Direct contact"
+ },
+ "Stuur gerust uw vraag rechtstreeks per mail, met uw trajecten en uw uren. Wij antwoorden binnen één werkdag.": {
+  "fr": "Envoyez votre question directement par mail, avec vos trajets et vos horaires. Nous répondons sous un jour ouvrable.",
+  "en": "Send your question straight by email, with your routes and your times. We answer within one working day."
+ },
+ "Stel uw vraag via WhatsApp": {
+  "fr": "Posez votre question par WhatsApp",
+  "en": "Ask your question by WhatsApp"
+ },
+ "Taxi Soesi, Hoogstraat 53C, 9000 Gent. Bereikbaar 24 uur op 24, 7 dagen op 7, ook op feestdagen.": {
+  "fr": "Taxi Soesi, Hoogstraat 53C, 9000 Gent. Joignable 24h/24, 7 jours sur 7, jours fériés compris.",
+  "en": "Taxi Soesi, Hoogstraat 53C, 9000 Ghent. Reachable around the clock, seven days a week, public holidays included."
+ },
+ "Uw aanvraag staat klaar": {
+  "fr": "Votre demande est prête",
+  "en": "Your request is ready"
+ },
+ "Uw mailprogramma opent met de volledige aanvraag. Komt het niet vanzelf open? Kopieer de tekst hieronder en stuur ze naar Novaracommv@gmail.com.": {
+  "fr": "Votre logiciel de messagerie s'ouvre avec la demande complète. Il ne s'ouvre pas tout seul ? Copiez le texte ci-dessous et envoyez-le à Novaracommv@gmail.com.",
+  "en": "Your email program opens with the full request. Does it not open by itself? Copy the text below and send it to Novaracommv@gmail.com."
+ },
+ "Kopieer de tekst": {
+  "fr": "Copier le texte",
+  "en": "Copy the text"
+ },
+ "Open mijn mailprogramma": {
+  "fr": "Ouvrir ma messagerie",
+  "en": "Open my email program"
+ },
+ "Formulier opnieuw invullen": {
+  "fr": "Remplir le formulaire à nouveau",
+  "en": "Fill in the form again"
+ },
+ "Praktisch": {
+  "fr": "Pratique",
+  "en": "Practical"
+ },
+ "Hoe we starten": {
+  "fr": "Comment nous démarrons",
+  "en": "How we start"
+ },
+ "Eén gesprek volstaat. Wij overlopen uw vaste trajecten, u krijgt een prijs per traject, en vanaf de eerste rit loopt alles via uw vaste chauffeur.": {
+  "fr": "Un seul entretien suffit. Nous passons en revue vos trajets habituels, vous recevez un prix par trajet, et dès la première course tout passe par votre chauffeur attitré.",
+  "en": "One conversation is enough. We go through your regular routes, you get a price per route, and from the first ride everything runs through your regular driver."
+ },
+ "E-mail": {
+  "fr": "E-mail",
+  "en": "Email"
+ },
+ "Bereikbaarheid": {
+  "fr": "Disponibilité",
+  "en": "Availability"
+ },
+ "Naar de website": {
+  "fr": "Vers le site",
+  "en": "To the website"
+ },
+ "Ritprijzen": {
+  "fr": "Prix des courses",
+  "en": "Fares"
+ },
+ "Mail ons": {
+  "fr": "Écrivez-nous",
+  "en": "Email us"
+ },
+ "Novaracommv@gmail.com": {
+  "fr": "Novaracommv@gmail.com",
+  "en": "Novaracommv@gmail.com"
+ },
+ "0470 53 41 24": {
+  "fr": "0470 53 41 24",
+  "en": "0470 53 41 24"
+ },
+ "24/7": {
+  "fr": "24h/24",
+  "en": "24/7"
+ },
+ "100+": {
+  "fr": "100+",
+  "en": "100+"
+ },
+ "€ 0": {
+  "fr": "0 €",
+  "en": "€0"
+ }
+}

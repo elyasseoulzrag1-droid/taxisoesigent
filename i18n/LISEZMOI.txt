@@ -1,0 +1,55 @@
+Les trois langues du site
+=========================
+
+Le site existe en neerlandais, en francais et en anglais, sur trois
+adresses reelles, pas avec un bouton qui traduit a la volee. Google peut
+donc indexer les trois.
+
+   taxisoesi.com/            neerlandais
+   taxisoesi.com/fr/         francais
+   taxisoesi.com/en/         anglais
+
+Chaque page annonce aux moteurs l'existence des deux autres, et un
+bandeau discret en haut de page laisse le visiteur choisir.
+
+
+OU MODIFIER LE TEXTE
+--------------------
+La source est le neerlandais, dans i18n/source/ :
+
+   i18n/source/index.html
+   i18n/source/zakelijk.html
+
+Ne modifie PAS index.html ni zakelijk.html a la racine, ni les dossiers
+fr/ et en/ : ils sont regeneres et tes changements seraient effaces.
+
+
+COMMENT REGENERER
+-----------------
+Apres avoir modifie la source :
+
+   python3 i18n/extract.py     releve les textes et leur position
+   python3 i18n/build_lang.py  ecrit les trois versions
+
+Si tu as ajoute une phrase, extract.py la signalera comme non traduite.
+Ajoute-la dans i18n/tr1.py, tr2.py ou tr3.py sous la forme :
+
+   "Ta phrase en neerlandais": {"fr":"...", "en":"..."},
+
+puis relance les deux commandes.
+
+
+CE QUI EST TRADUIT
+------------------
+   217 fragments de texte des deux pages
+    60 messages fabriques par le script de l'accueil
+    16 messages du formulaire de la page entreprises
+
+Sont aussi adaptes : le titre et la description de chaque page, le sens
+d'ecriture des nombres et des prix (143,05 € en francais, EUR143.05 en
+anglais), les messages WhatsApp pre-remplis, et les noms des aeroports
+pour que la recherche d'adresse fonctionne aussi en francais et en
+anglais.
+
+La liste des rues (streets.js) reste commune aux trois langues : les
+noms de rues belges ne se traduisent pas.

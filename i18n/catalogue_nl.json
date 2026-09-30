@@ -1,0 +1,1614 @@
+{
+ "index.html": [
+  {
+   "a": 454,
+   "b": 577,
+   "kind": "attr:content",
+   "nl": "Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp."
+  },
+  {
+   "a": 615,
+   "b": 630,
+   "kind": "attr:content",
+   "nl": "Taxi Soesi Gent"
+  },
+  {
+   "a": 674,
+   "b": 797,
+   "kind": "attr:content",
+   "nl": "Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp."
+  },
+  {
+   "a": 909,
+   "b": 924,
+   "kind": "text",
+   "nl": "Taxi Soesi Gent"
+  },
+  {
+   "a": 25232,
+   "b": 25242,
+   "kind": "text",
+   "nl": "Taxi Soesi"
+  },
+  {
+   "a": 25282,
+   "b": 25293,
+   "kind": "text",
+   "nl": "Gent · 24/7"
+  },
+  {
+   "a": 25363,
+   "b": 25381,
+   "kind": "text",
+   "nl": "Ritprijs berekenen"
+  },
+  {
+   "a": 25400,
+   "b": 25412,
+   "kind": "text",
+   "nl": "VIP-transfer"
+  },
+  {
+   "a": 25435,
+   "b": 25448,
+   "kind": "text",
+   "nl": "Vaste prijzen"
+  },
+  {
+   "a": 25476,
+   "b": 25490,
+   "kind": "text",
+   "nl": "Voor bedrijven"
+  },
+  {
+   "a": 25513,
+   "b": 25520,
+   "kind": "text",
+   "nl": "Contact"
+  },
+  {
+   "a": 25596,
+   "b": 25600,
+   "kind": "attr:aria-label",
+   "nl": "Menu"
+  },
+  {
+   "a": 27563,
+   "b": 27583,
+   "kind": "text",
+   "nl": "\n      WhatsApp\n    "
+  },
+  {
+   "a": 27683,
+   "b": 27701,
+   "kind": "text",
+   "nl": "Ritprijs berekenen"
+  },
+  {
+   "a": 27707,
+   "b": 27722,
+   "kind": "text",
+   "nl": "adres tot adres"
+  },
+  {
+   "a": 27755,
+   "b": 27767,
+   "kind": "text",
+   "nl": "VIP-transfer"
+  },
+  {
+   "a": 27773,
+   "b": 27783,
+   "kind": "text",
+   "nl": "luchthaven"
+  },
+  {
+   "a": 27820,
+   "b": 27836,
+   "kind": "text",
+   "nl": "Vaste ritprijzen"
+  },
+  {
+   "a": 27842,
+   "b": 27862,
+   "kind": "text",
+   "nl": "Zaventem, Charleroi…"
+  },
+  {
+   "a": 27900,
+   "b": 27913,
+   "kind": "text",
+   "nl": "Onze diensten"
+  },
+  {
+   "a": 27948,
+   "b": 27962,
+   "kind": "text",
+   "nl": "Voor bedrijven"
+  },
+  {
+   "a": 27968,
+   "b": 27986,
+   "kind": "text",
+   "nl": "offerte en factuur"
+  },
+  {
+   "a": 28023,
+   "b": 28030,
+   "kind": "text",
+   "nl": "Contact"
+  },
+  {
+   "a": 28068,
+   "b": 28085,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 220411,
+   "b": 220476,
+   "kind": "attr:alt",
+   "nl": "De zwarte taxiwagen en minibus van Taxi Soesi, klaar voor vertrek"
+  },
+  {
+   "a": 220570,
+   "b": 220592,
+   "kind": "text",
+   "nl": "Nu beschikbaar in Gent"
+  },
+  {
+   "a": 220614,
+   "b": 220636,
+   "kind": "text",
+   "nl": "Uw chauffeur in Gent, "
+  },
+  {
+   "a": 220640,
+   "b": 220652,
+   "kind": "text",
+   "nl": "dag en nacht"
+  },
+  {
+   "a": 220696,
+   "b": 220813,
+   "kind": "text",
+   "nl": "Vul uw vertrek- en aankomstadres in, u ziet meteen de prijs. Eén bericht volstaat en uw chauffeur staat voor de deur."
+  },
+  {
+   "a": 221173,
+   "b": 221217,
+   "kind": "text",
+   "nl": "\n              Bereken mijn rit\n            "
+  },
+  {
+   "a": 222490,
+   "b": 222535,
+   "kind": "text",
+   "nl": "\n              Boek via WhatsApp\n            "
+  },
+  {
+   "a": 223307,
+   "b": 223326,
+   "kind": "text",
+   "nl": "5 sterren op Google"
+  },
+  {
+   "a": 223503,
+   "b": 223535,
+   "kind": "text",
+   "nl": "Vaste prijzen, geen verrassingen"
+  },
+  {
+   "a": 223778,
+   "b": 223826,
+   "kind": "text",
+   "nl": "VIP-luchthaventransfers Zaventem &amp; Charleroi"
+  },
+  {
+   "a": 224025,
+   "b": 224051,
+   "kind": "text",
+   "nl": "Uw rit berekenen en boeken"
+  },
+  {
+   "a": 224068,
+   "b": 224099,
+   "kind": "text",
+   "nl": "Van welk adres naar welk adres?"
+  },
+  {
+   "a": 224116,
+   "b": 224254,
+   "kind": "text",
+   "nl": "€ 15 voor de eerste 3 kilometer, daarna € 2,60 per bijkomende kilometer. Voor de luchthavens en de lange afstanden geldt onze vaste prijs."
+  },
+  {
+   "a": 224435,
+   "b": 224447,
+   "kind": "text",
+   "nl": "Vertrekadres"
+  },
+  {
+   "a": 224654,
+   "b": 224682,
+   "kind": "attr:placeholder",
+   "nl": "bv. Hoogstraat 53, 9000 Gent"
+  },
+  {
+   "a": 225069,
+   "b": 225106,
+   "kind": "text",
+   "nl": "\n              Omdraaien\n            "
+  },
+  {
+   "a": 225191,
+   "b": 225204,
+   "kind": "text",
+   "nl": "Aankomstadres"
+  },
+  {
+   "a": 225413,
+   "b": 225436,
+   "kind": "attr:placeholder",
+   "nl": "bv. Luchthaven Zaventem"
+  },
+  {
+   "a": 225629,
+   "b": 225634,
+   "kind": "text",
+   "nl": "Datum"
+  },
+  {
+   "a": 225756,
+   "b": 225759,
+   "kind": "text",
+   "nl": "Uur"
+  },
+  {
+   "a": 225892,
+   "b": 225907,
+   "kind": "text",
+   "nl": "Aantal personen"
+  },
+  {
+   "a": 226121,
+   "b": 226138,
+   "kind": "text",
+   "nl": "5 tot 8 (minibus)"
+  },
+  {
+   "a": 226358,
+   "b": 226380,
+   "kind": "text",
+   "nl": "VIP-transfer toevoegen"
+  },
+  {
+   "a": 226405,
+   "b": 226525,
+   "kind": "text",
+   "nl": "Enkel bij een luchthavenrit: chauffeur in pak, meet &amp; greet met naambord en vluchtopvolging. Supplement op aanvraag."
+  },
+  {
+   "a": 226605,
+   "b": 226811,
+   "kind": "text",
+   "nl": "Typ uw straat en kies ze uit de lijst, het huisnummer mag erbij. Alle straten van Gent en tot 50 km rond Gent zitten in de lijst, ook Zeeland en Henegouwen. Laat de datum leeg voor een rit zo snel mogelijk."
+  },
+  {
+   "a": 226904,
+   "b": 226922,
+   "kind": "text",
+   "nl": "Vul uw adressen in"
+  },
+  {
+   "a": 226975,
+   "b": 226986,
+   "kind": "text",
+   "nl": "Op aanvraag"
+  },
+  {
+   "a": 227035,
+   "b": 227112,
+   "kind": "text",
+   "nl": "Kies uw vertrek- en aankomstadres, u ziet hier meteen de afstand en de prijs."
+  },
+  {
+   "a": 227491,
+   "b": 227545,
+   "kind": "text",
+   "nl": "\n            Bekijk de route op Google Maps\n          "
+  },
+  {
+   "a": 228853,
+   "b": 228902,
+   "kind": "text",
+   "nl": "\n              Verstuur via WhatsApp\n            "
+  },
+  {
+   "a": 228980,
+   "b": 228997,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 229050,
+   "b": 229300,
+   "kind": "text",
+   "nl": "Dit is een richtprijs op basis van de afstand tussen beide adressen. De definitieve prijs kan licht variëren volgens de gekozen route, het verkeer, het aantal personen en eventuele wachttijd. U krijgt de exacte prijs bij uw bevestiging, vóór vertrek."
+  },
+  {
+   "a": 229724,
+   "b": 229770,
+   "kind": "text",
+   "nl": "\n            VIP luchthaventransfer\n          "
+  },
+  {
+   "a": 229792,
+   "b": 229844,
+   "kind": "text",
+   "nl": "Aankomen zoals u vertrokken bent: rustig en op tijd."
+  },
+  {
+   "a": 229876,
+   "b": 230104,
+   "kind": "text",
+   "nl": "Onze VIP-service geldt uitsluitend voor luchthaventransfers: Zaventem, Charleroi, Eindhoven, Amsterdam, Düsseldorf, Dortmund en Parijs. Een chauffeur in pak, een onberispelijke wagen en een persoonlijk onthaal in de aankomsthal."
+  },
+  {
+   "a": 231401,
+   "b": 231451,
+   "kind": "text",
+   "nl": "\n              VIP-transfer aanvragen\n            "
+  },
+  {
+   "a": 231518,
+   "b": 231535,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 231806,
+   "b": 231835,
+   "kind": "text",
+   "nl": "Meet &amp; greet met naambord"
+  },
+  {
+   "a": 231839,
+   "b": 231880,
+   "kind": "text",
+   "nl": " in de aankomsthal, wij dragen uw bagage."
+  },
+  {
+   "a": 232080,
+   "b": 232095,
+   "kind": "text",
+   "nl": "Vluchtopvolging"
+  },
+  {
+   "a": 232099,
+   "b": 232165,
+   "kind": "text",
+   "nl": " op uw vluchtnummer, wij passen het uur gratis aan bij vertraging."
+  },
+  {
+   "a": 232365,
+   "b": 232381,
+   "kind": "text",
+   "nl": "Chauffeur in pak"
+  },
+  {
+   "a": 232385,
+   "b": 232426,
+   "kind": "text",
+   "nl": ", discreet en stipt, met water aan boord."
+  },
+  {
+   "a": 232626,
+   "b": 232659,
+   "kind": "text",
+   "nl": "Berline of minibus tot 8 personen"
+  },
+  {
+   "a": 232663,
+   "b": 232695,
+   "kind": "text",
+   "nl": ", ook voor uw team of uw gasten."
+  },
+  {
+   "a": 232895,
+   "b": 232917,
+   "kind": "text",
+   "nl": "Factuur voor bedrijven"
+  },
+  {
+   "a": 232921,
+   "b": 232967,
+   "kind": "text",
+   "nl": ", met een vaste prijs afgesproken op voorhand."
+  },
+  {
+   "a": 233028,
+   "b": 233150,
+   "kind": "text",
+   "nl": "Basis vanaf de vaste ritprijs, bijvoorbeeld Gent naar Zaventem € 125. VIP-supplement op aanvraag, altijd vooraf bevestigd."
+  },
+  {
+   "a": 233654,
+   "b": 233692,
+   "kind": "text",
+   "nl": "\n            Voor bedrijven\n          "
+  },
+  {
+   "a": 233714,
+   "b": 233780,
+   "kind": "text",
+   "nl": "Uw vaste chauffeur in Gent, met factuur op het einde van de maand."
+  },
+  {
+   "a": 233817,
+   "b": 234012,
+   "kind": "text",
+   "nl": "Bedrijven, hotels, ziekenhuizen en organisatoren rekenen op ons voor hun klanten, hun gasten en hun medewerkers. U belt of appt, wij regelen de rest, en u betaalt per maand in plaats van per rit."
+  },
+  {
+   "a": 235309,
+   "b": 235364,
+   "kind": "text",
+   "nl": "\n              Zakelijke offerte aanvragen\n            "
+  },
+  {
+   "a": 235427,
+   "b": 235454,
+   "kind": "text",
+   "nl": "Alles over zakelijk vervoer"
+  },
+  {
+   "a": 235521,
+   "b": 235538,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 235946,
+   "b": 235969,
+   "kind": "text",
+   "nl": "Maandelijkse facturatie"
+  },
+  {
+   "a": 235979,
+   "b": 236057,
+   "kind": "text",
+   "nl": "Eén factuur per maand met alle ritten, btw-conform, klaar voor uw boekhouding."
+  },
+  {
+   "a": 236356,
+   "b": 236375,
+   "kind": "text",
+   "nl": "Voorrang bij drukte"
+  },
+  {
+   "a": 236385,
+   "b": 236466,
+   "kind": "text",
+   "nl": "Uw ritten krijgen voorrang, ook tijdens de spits, de Gentse Feesten of een event."
+  },
+  {
+   "a": 236853,
+   "b": 236885,
+   "kind": "text",
+   "nl": "Luchthaventransfers voor uw team"
+  },
+  {
+   "a": 236895,
+   "b": 236969,
+   "kind": "text",
+   "nl": "Vaste prijzen naar Zaventem en Charleroi, met VIP-onthaal voor uw klanten."
+  },
+  {
+   "a": 237410,
+   "b": 237431,
+   "kind": "text",
+   "nl": "Hotelgasten en events"
+  },
+  {
+   "a": 237441,
+   "b": 237514,
+   "kind": "text",
+   "nl": "Shuttles voor seminaries, beurzen en feesten, met minibus tot 8 personen."
+  },
+  {
+   "a": 238020,
+   "b": 238042,
+   "kind": "text",
+   "nl": "Eén vast aanspreekpunt"
+  },
+  {
+   "a": 238052,
+   "b": 238119,
+   "kind": "text",
+   "nl": "Dezelfde chauffeur, 24 uur op 24 bereikbaar, die uw afspraken kent."
+  },
+  {
+   "a": 238330,
+   "b": 238358,
+   "kind": "text",
+   "nl": "Vaste ritprijzen vanuit Gent"
+  },
+  {
+   "a": 238375,
+   "b": 238403,
+   "kind": "text",
+   "nl": "Luchthavens en lange afstand"
+  },
+  {
+   "a": 238420,
+   "b": 238496,
+   "kind": "text",
+   "nl": "Tik op een bestemming, ze wordt meteen ingevuld als aankomstadres hierboven."
+  },
+  {
+   "a": 238707,
+   "b": 238720,
+   "kind": "text",
+   "nl": "Onze diensten"
+  },
+  {
+   "a": 238737,
+   "b": 238776,
+   "kind": "text",
+   "nl": "Voor elke rit in Gent en ver daarbuiten"
+  },
+  {
+   "a": 239078,
+   "b": 239100,
+   "kind": "text",
+   "nl": "VIP luchthaventransfer"
+  },
+  {
+   "a": 239121,
+   "b": 239189,
+   "kind": "text",
+   "nl": "Chauffeur in pak, meet &amp; greet met naambord en vluchtopvolging. "
+  },
+  {
+   "a": 239204,
+   "b": 239225,
+   "kind": "text",
+   "nl": "Bekijk de VIP-service"
+  },
+  {
+   "a": 239651,
+   "b": 239668,
+   "kind": "text",
+   "nl": "Luchthavenvervoer"
+  },
+  {
+   "a": 239689,
+   "b": 239802,
+   "kind": "text",
+   "nl": "Zaventem, Charleroi, Eindhoven, Amsterdam en Düsseldorf. Wij volgen uw vluchtnummer op en wachten bij vertraging."
+  },
+  {
+   "a": 240187,
+   "b": 240206,
+   "kind": "text",
+   "nl": "Stadsritten in Gent"
+  },
+  {
+   "a": 240227,
+   "b": 240339,
+   "kind": "text",
+   "nl": "Van de Korenmarkt tot Sint-Pieters, het UZ of de Gentse Feesten. € 15 voor de eerste 3 km, daarna € 2,60 per km."
+  },
+  {
+   "a": 240668,
+   "b": 240688,
+   "kind": "text",
+   "nl": "Dag en nacht, 7 op 7"
+  },
+  {
+   "a": 240709,
+   "b": 240797,
+   "kind": "text",
+   "nl": "Vroege vlucht om 4 uur of laat naar huis na een feest: wij rijden op elk uur van de dag."
+  },
+  {
+   "a": 241183,
+   "b": 241211,
+   "kind": "text",
+   "nl": "Zakelijk vervoer en partners"
+  },
+  {
+   "a": 241232,
+   "b": 241308,
+   "kind": "text",
+   "nl": "Vaste afspraken voor bedrijven, hotels en events, met facturatie per maand. "
+  },
+  {
+   "a": 241332,
+   "b": 241359,
+   "kind": "text",
+   "nl": "Bekijk het zakelijke aanbod"
+  },
+  {
+   "a": 241839,
+   "b": 241861,
+   "kind": "text",
+   "nl": "Groepen tot 8 personen"
+  },
+  {
+   "a": 241882,
+   "b": 241972,
+   "kind": "text",
+   "nl": "Een minibus met plaats voor bagage, ideaal voor gezinnen, teams of een vlucht met koffers."
+  },
+  {
+   "a": 242168,
+   "b": 242185,
+   "kind": "text",
+   "nl": "Waarom Taxi Soesi"
+  },
+  {
+   "a": 242202,
+   "b": 242245,
+   "kind": "text",
+   "nl": "Stipt, comfortabel en altijd dezelfde prijs"
+  },
+  {
+   "a": 242368,
+   "b": 242385,
+   "kind": "text",
+   "nl": "Altijd bereikbaar"
+  },
+  {
+   "a": 242404,
+   "b": 242474,
+   "kind": "text",
+   "nl": "Een chauffeur aan de lijn, geen wachtmuziek en geen app-account nodig."
+  },
+  {
+   "a": 242574,
+   "b": 242590,
+   "kind": "text",
+   "nl": "Tevreden klanten"
+  },
+  {
+   "a": 242609,
+   "b": 242680,
+   "kind": "text",
+   "nl": "Vaste klanten in Gent en omgeving die ons blijven bellen voor elke rit."
+  },
+  {
+   "a": 242779,
+   "b": 242795,
+   "kind": "text",
+   "nl": "Verborgen kosten"
+  },
+  {
+   "a": 242814,
+   "b": 242897,
+   "kind": "text",
+   "nl": "De prijs die u krijgt bij uw boeking is de prijs die u betaalt, ook in het weekend."
+  },
+  {
+   "a": 242974,
+   "b": 242981,
+   "kind": "text",
+   "nl": "1 tot 8"
+  },
+  {
+   "a": 243000,
+   "b": 243017,
+   "kind": "text",
+   "nl": "Wagens naar keuze"
+  },
+  {
+   "a": 243036,
+   "b": 243109,
+   "kind": "text",
+   "nl": "Comfortabele berline tot 4 personen of minibus tot 8 personen met bagage."
+  },
+  {
+   "a": 243301,
+   "b": 243452,
+   "kind": "text",
+   "nl": "“De service van Taxi Soesi is uitmuntend. Altijd op tijd, vriendelijke chauffeurs en comfortabele wagens. Een absolute aanrader voor iedereen in Gent.”"
+  },
+  {
+   "a": 243471,
+   "b": 243498,
+   "kind": "text",
+   "nl": "Annelies V. · Google review"
+  },
+  {
+   "a": 243689,
+   "b": 243696,
+   "kind": "text",
+   "nl": "Contact"
+  },
+  {
+   "a": 243715,
+   "b": 243740,
+   "kind": "text",
+   "nl": "Bel, app of spring binnen"
+  },
+  {
+   "a": 243819,
+   "b": 243923,
+   "kind": "text",
+   "nl": "Voor een rit binnen het uur belt u het best. Voor een reservatie later op de dag is WhatsApp het snelst."
+  },
+  {
+   "a": 245262,
+   "b": 245316,
+   "kind": "text",
+   "nl": "\n              Start een WhatsApp-gesprek\n            "
+  },
+  {
+   "a": 245825,
+   "b": 245833,
+   "kind": "text",
+   "nl": "Telefoon"
+  },
+  {
+   "a": 246211,
+   "b": 246216,
+   "kind": "text",
+   "nl": "Adres"
+  },
+  {
+   "a": 246348,
+   "b": 246373,
+   "kind": "text",
+   "nl": "Hoogstraat 53C, 9000 Gent"
+  },
+  {
+   "a": 246643,
+   "b": 246655,
+   "kind": "text",
+   "nl": "Openingsuren"
+  },
+  {
+   "a": 246664,
+   "b": 246686,
+   "kind": "text",
+   "nl": "Elke dag, 24 uur op 24"
+  },
+  {
+   "a": 246929,
+   "b": 246939,
+   "kind": "text",
+   "nl": "Werkgebied"
+  },
+  {
+   "a": 246948,
+   "b": 247012,
+   "kind": "text",
+   "nl": "Gent en omgeving, heel België, Nederland, Frankrijk en Duitsland"
+  },
+  {
+   "a": 247230,
+   "b": 247245,
+   "kind": "text",
+   "nl": "Over Taxi Soesi"
+  },
+  {
+   "a": 247315,
+   "b": 247337,
+   "kind": "text",
+   "nl": "Ritprijzen en tarieven"
+  },
+  {
+   "a": 247372,
+   "b": 247400,
+   "kind": "text",
+   "nl": "Partners en zakelijk vervoer"
+  },
+  {
+   "a": 247426,
+   "b": 247462,
+   "kind": "text",
+   "nl": "© 2026 Taxi Soesi, powered by Novara"
+  },
+  {
+   "a": 247525,
+   "b": 247538,
+   "kind": "attr:aria-label",
+   "nl": "Snelle acties"
+  },
+  {
+   "a": 247995,
+   "b": 248009,
+   "kind": "text",
+   "nl": "\n    Bel nu\n  "
+  },
+  {
+   "a": 249250,
+   "b": 249266,
+   "kind": "text",
+   "nl": "\n    WhatsApp\n  "
+  },
+  {
+   "a": 249326,
+   "b": 249352,
+   "kind": "attr:aria-label",
+   "nl": "Boek een taxi via WhatsApp"
+  }
+ ],
+ "zakelijk.html": [
+  {
+   "a": 454,
+   "b": 580,
+   "kind": "attr:content",
+   "nl": "Zakelijk taxivervoer in Gent: vaste prijzen, maandelijkse factuur, luchthaventransfers voor bedrijven, hotels, zorg en events."
+  },
+  {
+   "a": 618,
+   "b": 637,
+   "kind": "attr:content",
+   "nl": "Taxi Soesi Zakelijk"
+  },
+  {
+   "a": 681,
+   "b": 807,
+   "kind": "attr:content",
+   "nl": "Zakelijk taxivervoer in Gent: vaste prijzen, maandelijkse factuur, luchthaventransfers voor bedrijven, hotels, zorg en events."
+  },
+  {
+   "a": 876,
+   "b": 895,
+   "kind": "text",
+   "nl": "Taxi Soesi Zakelijk"
+  },
+  {
+   "a": 26812,
+   "b": 26822,
+   "kind": "text",
+   "nl": "Taxi Soesi"
+  },
+  {
+   "a": 26862,
+   "b": 26878,
+   "kind": "text",
+   "nl": "Zakelijk vervoer"
+  },
+  {
+   "a": 26958,
+   "b": 26976,
+   "kind": "text",
+   "nl": "Ritprijs berekenen"
+  },
+  {
+   "a": 27005,
+   "b": 27017,
+   "kind": "text",
+   "nl": "VIP-transfer"
+  },
+  {
+   "a": 27050,
+   "b": 27063,
+   "kind": "text",
+   "nl": "Vaste prijzen"
+  },
+  {
+   "a": 27121,
+   "b": 27135,
+   "kind": "text",
+   "nl": "Voor bedrijven"
+  },
+  {
+   "a": 27158,
+   "b": 27165,
+   "kind": "text",
+   "nl": "Offerte"
+  },
+  {
+   "a": 27241,
+   "b": 27245,
+   "kind": "attr:aria-label",
+   "nl": "Menu"
+  },
+  {
+   "a": 27524,
+   "b": 27531,
+   "kind": "text",
+   "nl": "Website"
+  },
+  {
+   "a": 27581,
+   "b": 27588,
+   "kind": "text",
+   "nl": "Offerte"
+  },
+  {
+   "a": 27698,
+   "b": 27716,
+   "kind": "text",
+   "nl": "Ritprijs berekenen"
+  },
+  {
+   "a": 27722,
+   "b": 27735,
+   "kind": "text",
+   "nl": "op de website"
+  },
+  {
+   "a": 27778,
+   "b": 27790,
+   "kind": "text",
+   "nl": "VIP-transfer"
+  },
+  {
+   "a": 27796,
+   "b": 27806,
+   "kind": "text",
+   "nl": "luchthaven"
+  },
+  {
+   "a": 27853,
+   "b": 27869,
+   "kind": "text",
+   "nl": "Vaste ritprijzen"
+  },
+  {
+   "a": 27875,
+   "b": 27888,
+   "kind": "text",
+   "nl": "op de website"
+  },
+  {
+   "a": 27963,
+   "b": 27977,
+   "kind": "text",
+   "nl": "Voor bedrijven"
+  },
+  {
+   "a": 27983,
+   "b": 27994,
+   "kind": "text",
+   "nl": "deze pagina"
+  },
+  {
+   "a": 28032,
+   "b": 28051,
+   "kind": "text",
+   "nl": "Voor wie wij rijden"
+  },
+  {
+   "a": 28081,
+   "b": 28098,
+   "kind": "text",
+   "nl": "Offerte aanvragen"
+  },
+  {
+   "a": 28104,
+   "b": 28114,
+   "kind": "text",
+   "nl": "per e-mail"
+  },
+  {
+   "a": 28153,
+   "b": 28160,
+   "kind": "text",
+   "nl": "Contact"
+  },
+  {
+   "a": 28198,
+   "b": 28215,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 220541,
+   "b": 220606,
+   "kind": "attr:alt",
+   "nl": "De zwarte taxiwagen en minibus van Taxi Soesi, klaar voor vertrek"
+  },
+  {
+   "a": 220700,
+   "b": 220739,
+   "kind": "text",
+   "nl": "Zakelijke ritten in Gent en heel België"
+  },
+  {
+   "a": 220761,
+   "b": 220778,
+   "kind": "text",
+   "nl": "Uw bedrijf heeft "
+  },
+  {
+   "a": 220782,
+   "b": 220795,
+   "kind": "text",
+   "nl": "één chauffeur"
+  },
+  {
+   "a": 220800,
+   "b": 220823,
+   "kind": "text",
+   "nl": " nodig, geen tien apps."
+  },
+  {
+   "a": 220861,
+   "b": 220994,
+   "kind": "text",
+   "nl": "Vaste prijzen, ritten op afroep 24 uur op 24, en één factuur op het einde van de maand. Voor uw klanten, uw gasten en uw medewerkers."
+  },
+  {
+   "a": 221327,
+   "b": 221375,
+   "kind": "text",
+   "nl": "\n              Vraag uw offerte aan\n            "
+  },
+  {
+   "a": 222131,
+   "b": 222164,
+   "kind": "text",
+   "nl": "Maandelijkse factuur, btw-conform"
+  },
+  {
+   "a": 222341,
+   "b": 222362,
+   "kind": "text",
+   "nl": "Vaste prijzen op maat"
+  },
+  {
+   "a": 222539,
+   "b": 222574,
+   "kind": "text",
+   "nl": "24/7 bereikbaar, ook in het weekend"
+  },
+  {
+   "a": 222776,
+   "b": 222788,
+   "kind": "text",
+   "nl": "Wat u krijgt"
+  },
+  {
+   "a": 222805,
+   "b": 222847,
+   "kind": "text",
+   "nl": "Vervoer dat u niet meer hoeft op te volgen"
+  },
+  {
+   "a": 222864,
+   "b": 222999,
+   "kind": "text",
+   "nl": "U geeft door wie waar moet zijn en wanneer. Wij regelen de chauffeur, de wagen en de opvolging, en u ziet het resultaat op één factuur."
+  },
+  {
+   "a": 223408,
+   "b": 223429,
+   "kind": "text",
+   "nl": "Eén factuur per maand"
+  },
+  {
+   "a": 223450,
+   "b": 223573,
+   "kind": "text",
+   "nl": "Alle ritten gebundeld, met datum, traject en prijs per rit. Btw-conform en klaar voor uw boekhouding. Betaling op 30 dagen."
+  },
+  {
+   "a": 223906,
+   "b": 223927,
+   "kind": "text",
+   "nl": "Voorrang op uw ritten"
+  },
+  {
+   "a": 223948,
+   "b": 224044,
+   "kind": "text",
+   "nl": "Uw aanvragen komen eerst, ook tijdens de spits, de Gentse Feesten of een beurs in Flanders Expo."
+  },
+  {
+   "a": 224465,
+   "b": 224484,
+   "kind": "text",
+   "nl": "Luchthaventransfers"
+  },
+  {
+   "a": 224505,
+   "b": 224618,
+   "kind": "text",
+   "nl": "Zaventem € 125, Charleroi € 175, all-in vanuit Gent. Vluchtopvolging inbegrepen, met VIP-onthaal voor uw klanten."
+  },
+  {
+   "a": 225093,
+   "b": 225115,
+   "kind": "text",
+   "nl": "Groepen tot 8 personen"
+  },
+  {
+   "a": 225136,
+   "b": 225231,
+   "kind": "text",
+   "nl": "Minibus met bagageruimte voor teams, delegaties en shuttles tussen hotel, kantoor en evenement."
+  },
+  {
+   "a": 225771,
+   "b": 225788,
+   "kind": "text",
+   "nl": "Eén aanspreekpunt"
+  },
+  {
+   "a": 225809,
+   "b": 225919,
+   "kind": "text",
+   "nl": "Dezelfde chauffeur die uw afspraken kent, rechtstreeks bereikbaar per telefoon of WhatsApp, zonder callcenter."
+  },
+  {
+   "a": 226295,
+   "b": 226304,
+   "kind": "text",
+   "nl": "Discretie"
+  },
+  {
+   "a": 226325,
+   "b": 226418,
+   "kind": "text",
+   "nl": "Verzorgde wagens, chauffeur in pak op aanvraag, en geen gesprekken die het voertuig verlaten."
+  },
+  {
+   "a": 226939,
+   "b": 226982,
+   "kind": "text",
+   "nl": "\n            Voor wie wij rijden\n          "
+  },
+  {
+   "a": 227004,
+   "b": 227059,
+   "kind": "text",
+   "nl": "Hotels, bedrijven, zorg en events in Gent en omstreken."
+  },
+  {
+   "a": 227096,
+   "b": 227247,
+   "kind": "text",
+   "nl": "Van een enkele klant die u van de luchthaven laat halen tot een volledige shuttle tijdens een congres: wij passen ons aan uw ritme aan, niet omgekeerd."
+  },
+  {
+   "a": 227338,
+   "b": 227355,
+   "kind": "text",
+   "nl": "Offerte aanvragen"
+  },
+  {
+   "a": 227422,
+   "b": 227439,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 227881,
+   "b": 227907,
+   "kind": "text",
+   "nl": "Hotels en gastenverblijven"
+  },
+  {
+   "a": 227917,
+   "b": 228003,
+   "kind": "text",
+   "nl": "Transfers voor uw gasten, op naam geboekt aan de receptie, met factuur voor het hotel."
+  },
+  {
+   "a": 228347,
+   "b": 228368,
+   "kind": "text",
+   "nl": "Bedrijven en kantoren"
+  },
+  {
+   "a": 228378,
+   "b": 228472,
+   "kind": "text",
+   "nl": "Medewerkers naar de luchthaven, klanten van en naar Gent-Sint-Pieters, bezoekers naar uw site."
+  },
+  {
+   "a": 228770,
+   "b": 228790,
+   "kind": "text",
+   "nl": "Zorg en ziekenhuizen"
+  },
+  {
+   "a": 228800,
+   "b": 228889,
+   "kind": "text",
+   "nl": "Ritten naar UZ Gent, AZ Sint-Lucas, AZ Maria Middelares en AZ Jan Palfijn, op vaste uren."
+  },
+  {
+   "a": 229249,
+   "b": 229278,
+   "kind": "text",
+   "nl": "Events, beurzen en congressen"
+  },
+  {
+   "a": 229288,
+   "b": 229387,
+   "kind": "text",
+   "nl": "Shuttles tussen Flanders Expo, ICC Gent, uw hotel en het station, met meerdere wagens indien nodig."
+  },
+  {
+   "a": 229732,
+   "b": 229753,
+   "kind": "text",
+   "nl": "Vastgoed en notariaat"
+  },
+  {
+   "a": 229763,
+   "b": 229837,
+   "kind": "text",
+   "nl": "Bezoekers ophalen en terugbrengen tussen afspraken, met wachttijd op maat."
+  },
+  {
+   "a": 230042,
+   "b": 230059,
+   "kind": "text",
+   "nl": "Offerte aanvragen"
+  },
+  {
+   "a": 230076,
+   "b": 230104,
+   "kind": "text",
+   "nl": "Vertel ons wat u nodig heeft"
+  },
+  {
+   "a": 230121,
+   "b": 230251,
+   "kind": "text",
+   "nl": "Vul het formulier in of mail ons rechtstreeks. U krijgt binnen één werkdag een voorstel met vaste prijzen voor uw vaste trajecten."
+  },
+  {
+   "a": 230450,
+   "b": 230458,
+   "kind": "text",
+   "nl": "Bedrijf "
+  },
+  {
+   "a": 230576,
+   "b": 230598,
+   "kind": "attr:placeholder",
+   "nl": "bv. Hotel Pillows Gent"
+  },
+  {
+   "a": 230670,
+   "b": 230685,
+   "kind": "text",
+   "nl": "Contactpersoon "
+  },
+  {
+   "a": 230797,
+   "b": 230816,
+   "kind": "attr:placeholder",
+   "nl": "Voor- en achternaam"
+  },
+  {
+   "a": 230891,
+   "b": 230898,
+   "kind": "text",
+   "nl": "Functie"
+  },
+  {
+   "a": 230981,
+   "b": 230999,
+   "kind": "attr:placeholder",
+   "nl": "bv. office manager"
+  },
+  {
+   "a": 231072,
+   "b": 231084,
+   "kind": "text",
+   "nl": "E-mailadres "
+  },
+  {
+   "a": 231217,
+   "b": 231232,
+   "kind": "attr:placeholder",
+   "nl": "naam@bedrijf.be"
+  },
+  {
+   "a": 231303,
+   "b": 231311,
+   "kind": "text",
+   "nl": "Telefoon"
+  },
+  {
+   "a": 231486,
+   "b": 231498,
+   "kind": "text",
+   "nl": "Soort ritten"
+  },
+  {
+   "a": 231578,
+   "b": 231597,
+   "kind": "text",
+   "nl": "Luchthaventransfers"
+  },
+  {
+   "a": 231631,
+   "b": 231651,
+   "kind": "text",
+   "nl": "Klanten en bezoekers"
+  },
+  {
+   "a": 231685,
+   "b": 231696,
+   "kind": "text",
+   "nl": "Medewerkers"
+  },
+  {
+   "a": 231730,
+   "b": 231741,
+   "kind": "text",
+   "nl": "Hotelgasten"
+  },
+  {
+   "a": 231775,
+   "b": 231793,
+   "kind": "text",
+   "nl": "Events en shuttles"
+  },
+  {
+   "a": 231827,
+   "b": 231837,
+   "kind": "text",
+   "nl": "Zorgritten"
+  },
+  {
+   "a": 231871,
+   "b": 231892,
+   "kind": "text",
+   "nl": "Verschillende soorten"
+  },
+  {
+   "a": 231997,
+   "b": 232013,
+   "kind": "text",
+   "nl": "Ritten per maand"
+  },
+  {
+   "a": 232095,
+   "b": 232102,
+   "kind": "text",
+   "nl": "1 tot 5"
+  },
+  {
+   "a": 232145,
+   "b": 232153,
+   "kind": "text",
+   "nl": "5 tot 20"
+  },
+  {
+   "a": 232187,
+   "b": 232196,
+   "kind": "text",
+   "nl": "20 tot 50"
+  },
+  {
+   "a": 232230,
+   "b": 232241,
+   "kind": "text",
+   "nl": "Meer dan 50"
+  },
+  {
+   "a": 232275,
+   "b": 232291,
+   "kind": "text",
+   "nl": "Nog niet geweten"
+  },
+  {
+   "a": 232410,
+   "b": 232420,
+   "kind": "text",
+   "nl": "Uw bericht"
+  },
+  {
+   "a": 232503,
+   "b": 232608,
+   "kind": "attr:placeholder",
+   "nl": "bv. vaste transfers Gent naar Zaventem, meestal vroege vluchten, af en toe een minibus voor zes personen."
+  },
+  {
+   "a": 233046,
+   "b": 233094,
+   "kind": "text",
+   "nl": "\n              Verstuur de aanvraag\n            "
+  },
+  {
+   "a": 233153,
+   "b": 233179,
+   "kind": "text",
+   "nl": "Uw aanvraag vertrekt naar "
+  },
+  {
+   "a": 233235,
+   "b": 233256,
+   "kind": "text",
+   "nl": "Novaracommv@gmail.com"
+  },
+  {
+   "a": 233260,
+   "b": 233296,
+   "kind": "text",
+   "nl": ". Liever meteen iemand spreken? Bel "
+  },
+  {
+   "a": 233357,
+   "b": 233382,
+   "kind": "text",
+   "nl": ", elke dag, 24 uur op 24."
+  },
+  {
+   "a": 233468,
+   "b": 233488,
+   "kind": "text",
+   "nl": "Rechtstreeks contact"
+  },
+  {
+   "a": 233608,
+   "b": 233629,
+   "kind": "text",
+   "nl": "Novaracommv@gmail.com"
+  },
+  {
+   "a": 233670,
+   "b": 233778,
+   "kind": "text",
+   "nl": "Stuur gerust uw vraag rechtstreeks per mail, met uw trajecten en uw uren. Wij antwoorden binnen één werkdag."
+  },
+  {
+   "a": 235082,
+   "b": 235136,
+   "kind": "text",
+   "nl": "\n              Stel uw vraag via WhatsApp\n            "
+  },
+  {
+   "a": 235214,
+   "b": 235231,
+   "kind": "text",
+   "nl": "Bel 0470 53 41 24"
+  },
+  {
+   "a": 235284,
+   "b": 235380,
+   "kind": "text",
+   "nl": "Taxi Soesi, Hoogstraat 53C, 9000 Gent. Bereikbaar 24 uur op 24, 7 dagen op 7, ook op feestdagen."
+  },
+  {
+   "a": 235470,
+   "b": 235493,
+   "kind": "text",
+   "nl": "Uw aanvraag staat klaar"
+  },
+  {
+   "a": 235523,
+   "b": 235667,
+   "kind": "text",
+   "nl": "Uw mailprogramma opent met de volledige aanvraag. Komt het niet vanzelf open? Kopieer de tekst hieronder en stuur ze naar Novaracommv@gmail.com."
+  },
+  {
+   "a": 235805,
+   "b": 235821,
+   "kind": "text",
+   "nl": "Kopieer de tekst"
+  },
+  {
+   "a": 235918,
+   "b": 235941,
+   "kind": "text",
+   "nl": "Open mijn mailprogramma"
+  },
+  {
+   "a": 236015,
+   "b": 236041,
+   "kind": "text",
+   "nl": "Formulier opnieuw invullen"
+  },
+  {
+   "a": 236246,
+   "b": 236255,
+   "kind": "text",
+   "nl": "Praktisch"
+  },
+  {
+   "a": 236274,
+   "b": 236288,
+   "kind": "text",
+   "nl": "Hoe we starten"
+  },
+  {
+   "a": 236367,
+   "b": 236513,
+   "kind": "text",
+   "nl": "Eén gesprek volstaat. Wij overlopen uw vaste trajecten, u krijgt een prijs per traject, en vanaf de eerste rit loopt alles via uw vaste chauffeur."
+  },
+  {
+   "a": 236638,
+   "b": 236655,
+   "kind": "text",
+   "nl": "Offerte aanvragen"
+  },
+  {
+   "a": 236984,
+   "b": 236990,
+   "kind": "text",
+   "nl": "E-mail"
+  },
+  {
+   "a": 237038,
+   "b": 237059,
+   "kind": "text",
+   "nl": "Novaracommv@gmail.com"
+  },
+  {
+   "a": 237540,
+   "b": 237548,
+   "kind": "text",
+   "nl": "Telefoon"
+  },
+  {
+   "a": 237926,
+   "b": 237931,
+   "kind": "text",
+   "nl": "Adres"
+  },
+  {
+   "a": 238063,
+   "b": 238088,
+   "kind": "text",
+   "nl": "Hoogstraat 53C, 9000 Gent"
+  },
+  {
+   "a": 238358,
+   "b": 238372,
+   "kind": "text",
+   "nl": "Bereikbaarheid"
+  },
+  {
+   "a": 238381,
+   "b": 238403,
+   "kind": "text",
+   "nl": "Elke dag, 24 uur op 24"
+  },
+  {
+   "a": 238590,
+   "b": 238605,
+   "kind": "text",
+   "nl": "Naar de website"
+  },
+  {
+   "a": 238645,
+   "b": 238655,
+   "kind": "text",
+   "nl": "Ritprijzen"
+  },
+  {
+   "a": 238705,
+   "b": 238726,
+   "kind": "text",
+   "nl": "Novaracommv@gmail.com"
+  },
+  {
+   "a": 238752,
+   "b": 238788,
+   "kind": "text",
+   "nl": "© 2026 Taxi Soesi, powered by Novara"
+  },
+  {
+   "a": 238851,
+   "b": 238864,
+   "kind": "attr:aria-label",
+   "nl": "Snelle acties"
+  },
+  {
+   "a": 239321,
+   "b": 239335,
+   "kind": "text",
+   "nl": "\n    Bel nu\n  "
+  },
+  {
+   "a": 239656,
+   "b": 239672,
+   "kind": "text",
+   "nl": "\n    Mail ons\n  "
+  }
+ ]
+}

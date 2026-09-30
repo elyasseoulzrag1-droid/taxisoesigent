@@ -2,13 +2,18 @@
 <html lang="nl-BE">
 <head>
 <meta charset="utf-8">
-<script>if(location.protocol==="http:"&&location.hostname.indexOf(".")>0)location.replace("https://"+location.host+location.pathname+location.search+location.hash);</script>
+<script>if(location.protocol==="http:"&&location.hostname.indexOf(".")>0&&!/^(127\.|0\.0\.0\.0$|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/.test(location.hostname))location.replace("https://"+location.host+location.pathname+location.search+location.hash);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp.">
 <meta property="og:title" content="Taxi Soesi Gent">
 <meta property="og:description" content="Taxi in Gent, 24/7. Bereken uw ritprijs van adres tot adres, vaste prijzen naar Zaventem en Charleroi, boeken via WhatsApp.">
 <meta property="og:type" content="website">
   <script src="streets.js" defer></script>
+<link rel="canonical" href="https://taxisoesi.com/">
+<link rel="alternate" hreflang="nl-BE" href="https://taxisoesi.com/">
+<link rel="alternate" hreflang="fr-BE" href="https://taxisoesi.com/fr/">
+<link rel="alternate" hreflang="en" href="https://taxisoesi.com/en/">
+<link rel="alternate" hreflang="x-default" href="https://taxisoesi.com/">
 </head>
 <body>
 <title>Taxi Soesi Gent</title>
@@ -424,9 +429,22 @@
   .biz__ico svg{width:17px; height:17px}
   .biz__list li > div b{display:block; font-weight:500; font-size:15.5px}
   .biz__list li > div span{display:block; font-size:14px; font-weight:300; color:var(--muted); margin-top:2px}
+
+  /* bandeau de langue, au-dessus de la barre de navigation */
+  .langbar{background:var(--surface-2); border-bottom:1px solid var(--line)}
+  .langbar .wrap{display:flex; align-items:center; justify-content:flex-end; gap:10px;
+        min-height:34px; padding-block:2px}
+  .langbar__lab{font-size:12px; color:var(--muted); letter-spacing:.03em}
+  .lang{display:inline-flex; align-items:center; gap:1px}
+  .lang a{display:inline-flex; align-items:center; justify-content:center; min-width:38px;
+        min-height:30px; padding:0 8px; border-radius:999px; font-size:12.5px; font-weight:500;
+        letter-spacing:.05em; color:var(--muted); text-decoration:none; line-height:1}
+  .lang a:hover{color:var(--ink); background:var(--surface)}
+  .lang a[aria-current="true"]{background:var(--gold-soft); color:var(--gold); font-weight:600}
+  @media (max-width:430px){ .langbar__lab{display:none} .lang a{min-width:44px} }
 </style>
 
-<header class="topbar">
+<div class="langbar"><div class="wrap"><span class="langbar__lab">Taal</span><div class="lang" role="group" aria-label="Nederlands / Français / English"><a href="/" hreflang="nl-BE" aria-current="true">NL</a><a href="/fr/" hreflang="fr-BE">FR</a><a href="/en/" hreflang="en">EN</a></div></div></div><header class="topbar">
   <div class="wrap topbar__in">
     <a class="mark" href="#top">
       <span class="mark__badge" aria-hidden="true">
